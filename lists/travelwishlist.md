@@ -1,7 +1,7 @@
 ---
 layout: default
 published : true
-title: procastinating : )
+title: procastinating :)
 permalink: /lists/travelwishlist/  
 --- 
 
