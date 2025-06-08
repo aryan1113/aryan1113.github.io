@@ -1,3 +1,4 @@
+Knowledge base intertwined with personal information, for (potential) stalkers haha
 Have the following sections
 
 1. About
@@ -23,5 +24,6 @@ That would be enough for now, will add more stuff if I get inspired by cooler st
 
 <hr>
 ## Instructions
+
 To run locally use : bundle exec jekyll serve
 Run python scripts using : python addReviews.py

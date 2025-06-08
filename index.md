@@ -9,7 +9,3 @@ This webpage should serve as a knowledge base, so here's a simple guide to walk 
 
 ## knock knock Who's this
 {% include sections/about.md %}
-
-## What Have I Been Doing
-Bachelor of Technology, Electronics Engineering | IIIT Jabalpur | July 2025
-{% include sections/experiences.md %}
