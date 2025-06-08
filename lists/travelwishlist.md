@@ -8,6 +8,7 @@ permalink: /lists/travelwishlist/
 <h3> Head over to </h3>
 - [Aise hi, some scenic places](#general)
 - [Some scenic train journeys](#train)
+- [How To Roam Around Cities](#cityGuide)
 
 <div id="general"></div>
 
@@ -35,4 +36,12 @@ Scenic Train Journeys
 8. Jammu - Srinagar
 9. Cape Sounion Greece
 
+<div id="cityGuide"></div>
+
+<h2>
+Guides to cover cities 
+</h2>
+
 [Bangalore guide](https://guide.thebangaloreguy.com/)
+
+[Mumbai Travel Guide]({{ site.baseurl }}/lists/mumbai), written by me :)
