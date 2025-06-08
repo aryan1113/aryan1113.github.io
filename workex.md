@@ -1,11 +1,17 @@
+---
+layout: default
+published: true
+title: Work Experience
+permalink: /workex/
+---
+
 ## Work Experiences
 {% for job in site.data.experiences.work %}
 ### {{ job.company }}, {{ job.location }}
 **Role:** {{ job.role }} \
 **Duration:** {{ job.start_date | date: "%b %Y" }}{% if job.current %} - Present{% elsif job.end_date %} - {{ job.end_date | date: "%b %Y" }}{% endif %}  \
-**Type:** {{ job.type }}
-
-**The Process:** {{ job.process }}
+**Type:** {{ job.type }} \
+**Process:** {{ job.process }}
 
 **What I Learned:**
 {% for learning in job.learnings %}
