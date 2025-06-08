@@ -1,0 +1,49 @@
+# _data/experiences.yml
+work:
+  - company: "Carousell"
+    location: "Singapore"
+    role: "Data Science Intern"
+    type: "Internship"
+    start_date: "2025-01-06"
+    end_date: "2025-07-07"
+    current: true
+    process: Applied via Glassdoor, had 2 technical rounds focusing on ML/DL basics,
+        matrix based problem solving, and culture-fit
+    learnings:
+      - "Search systems are fascinating and complex"
+      - "Long Tail distributions are more common that it seems haha"
+      - "Problem solutioning is an iterative process, balance between depth and delivery speed"
+    projects:
+      - "Extend an TwoTower architechture for select markets, improving QUSVC latency by 90%"
+      - "(For internal use), flag username searches"
+      - "(For internal use), work on marketplace-health dashboards"
+    
+  - company: "Adizen"
+    location: "Bangalore"
+    role: "Product Management Intern"
+    type: "Full-time"
+    start_date: "2024-05-06"
+    end_date: "2024-07-15"
+    current: False
+    process: "Strong referral, 2 technical interviews based on guesstimates and past projects"
+    learnings:
+      - "Clients vision for the end result is paramount"
+      - "Work can be very iterative"
+      - "Tres LeChes is an amazing dessert"
+    projects:
+      - "ERP portal for a construction focused GCC"
+
+talks:
+  - event: "Microsoft Research India Academic Summit 2025"
+    date_from: "2025-06-24"
+    date_to: "2025-06-25"
+    type: "Conference"
+
+    takeaways:
+      - "Not sure, manifesting my application would be accepted lol"
+
+  # - event: "Local ML Meetup"
+  #   date: "2024-04-20"
+  #   type: "Meetup"
+  #   takeaways:
+  #     - "Small community events are great for learning"
