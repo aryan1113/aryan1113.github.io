@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import numpy as np
+import logging
 
 def parse_movie_dates(file_path='./media/rating.md'):
     """
@@ -13,7 +14,7 @@ def parse_movie_dates(file_path='./media/rating.md'):
     :return: List of dates when movies were watched
     """
     dates = []
-    
+    logging.info(f"Attempting to read data from: {file_path}")
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
             # Look for the line that starts with "- **Date** : "
@@ -39,10 +40,11 @@ def create_yearly_monthly_heatmap(dates, years=None):
         'year': [date.year for date in parsed_dates],
         'month': [date.month for date in parsed_dates]
     })
-    
+    logging.info(f"Parsed dates are:\n {df_dates}")
     # Determine years to include
     if years is None:
         years = sorted(df_dates['year'].unique(), reverse=True)  # Sort in descending order
+        logging.info(f"Parsed year are:, {years}")
     
     # Filter DataFrame to include only specified years
     df_dates = df_dates[df_dates['year'].isin(years)]
@@ -58,14 +60,13 @@ def create_yearly_monthly_heatmap(dates, years=None):
         by = ['year'], ascending = False
     )
 
-    
-    
     # Reorder columns to match calendar months
-    heatmap_data = heatmap_data.reindex(columns=range(1, 13))
-    
-    heatmap_data  =heatmap_data.fillna(0)
+    heatmap_data = heatmap_data.reindex(columns=range(1, 13))    
+    heatmap_data = heatmap_data.fillna(0)
 
-    plt.figure(figsize=(15, 4))
+    size_tuple = (20,6)
+    logging.info(f"Size of output histogram is: {size_tuple}")
+    plt.figure(figsize=size_tuple)
     
     custom_cmap = sns.light_palette("forestgreen", as_cmap=True)
     
@@ -87,13 +88,13 @@ def create_yearly_monthly_heatmap(dates, years=None):
     plt.xticks(ticks=np.arange(12) + 0.5, labels=month_names, rotation=45)
     
     # Save the heatmap
+    save_filepath = "scripts/movieCountbyMonth.png"
+    logging.info(f"Attempting to save heatmap at location: {save_filepath}")
     plt.tight_layout()
-    plt.savefig('scripts/movieCountbyMonth.png')
+    plt.savefig(save_filepath)
     plt.close()
     
-    print("Heatmap saved as 'movieCountbyMonth.png'")
-    
-    print()
+    logging.info(f"Heatmap saved as {save_filepath}")
     print("Movie Counts by Year and Month:")
     print(heatmap_data)
     
@@ -103,9 +104,12 @@ def main():
     movie_dates = parse_movie_dates()
     
     # Create heatmap with latest year on top
-    print(
-        create_yearly_monthly_heatmap(movie_dates, years=[2024, 2023])
-    )
+    create_yearly_monthly_heatmap(movie_dates, years=[2025, 2024, 2023])
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO) 
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(levelname)s - %(message)s'
+    )
     main()

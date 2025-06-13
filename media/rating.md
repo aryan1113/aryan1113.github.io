@@ -13,6 +13,7 @@ hidden : true
 
 
 <h3> Head over to </h3>
+- [Watch List for 2025](#WatchList2025)
 - [Watch List for 2024](#WatchList2024)
 - [Series from 2024](#Series2024)
 - [Watch List for 2023](#WatchList2023)
@@ -20,6 +21,69 @@ hidden : true
 - [Series from long ago](#OlderSeries)
 - [Watch List for 2022 and 2021, all mixed up](#WatchListOldBollywood)
 - [Watch List for older Hollywood movies](#WatchListOldHollywood)
+
+<hr style="border:2px solid gray">
+
+<div id="WatchList2025"></div>
+
+## Watch List 2025
+
+
+### Magic Mike
+- **Rating**: ★☆☆☆☆ 2
+- **Genre**: nonsensical
+- **Date** : 17 April 2025
+- **Brief Review**: 
+Has no plot except for Channing Tatum dancing
+        
+
+
+### The Lego Batman
+- **Rating**: ★★★★☆ 9
+- **Genre**: Action
+- **Date** : 8 April 2025
+- **Brief Review**: 
+Great fun movie for kids, lots of teeny tiny jokes. Stupidly funny, loved it
+        
+
+
+### Palm Springs 2020
+- **Rating**: ★★★★☆ 9
+- **Genre**: Drama
+- **Date** : 1 March 2025
+- **Brief Review**: 
+Love the teeny tiny details like Sarah stealing the wedding cake with the miniature toy on it
+The know you past conversation strikes a train of thought
+Not them seeing dinosaurs haahah, but the movie follows a template of having a weird middle part where the protagnists argue 
+They have a shamless edx promotion too, but they do hide the apple logo 
+Sounds like bullshit, did Sarah go through an equivalent of a physics undergrad 
+Adam Sandler made a sci-fi movie, low how predictable and childish the movie is.
+You get one sentence, Adam using all connectors known. Great that they also informed the 'hunter' guy.
+I feel a strong majority of my discomfort arises from this notion of my to not be sad, an image that is hard to maintain. It's not that the image is not shattered, it has happened quite a few times. It should not feel liberating to break the image, not having the image is a stronger liberation.
+        
+
+
+### Demolition 2015
+- **Rating**: ★★★★☆ 8
+- **Genre**: Drama
+- **Date** : 11 February 2025
+- **Brief Review**: 
+fun, captivating totally nonsensical but in a fun way
+Weird movie to watch into 1month of meeting someone
+Well we had an weird conversation a day before, for me not being sensitive enough and not being responsive. Felt Jake Gyllenhaal was that person for the first 40ish minutues, felt very weird and wrong to relate with the character for so long, for ignoring the little things that have been happening around. Maybe being nonchalant is a really bad adjective to be labelled, something which I got back in 2018. 
+I should pay a bit more attention, lend more of an ear than a brain. 
+Well I took a small break in between, talked to Shrivastava to ease myself, made Tea as it was a Tuesday. Heck yeah, even Mojo got his offer letter around 6PM. The second half made me realize that maybe I'm not that flawed of a person, the story wasn't that relatable.
+        
+
+
+### Dance Flick 2009
+- **Rating**: ★★★☆☆ 7
+- **Genre**: nonsensical
+- **Date** : 17 January 2025
+- **Brief Review**: 
+fun, captivating totally nonsensical but in a fun way
+Has references to Superbad, Twilight (insane i know) and the oh shit its white guys amazing callback
+        
 
 <hr style="border:2px solid gray">
 
