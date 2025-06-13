@@ -6,8 +6,8 @@ published : false
 title: Getting Started With ML
 permalink: /guides/startml/  
 hidden : true
----
-Getting Started With ML -->
+--->
+Getting Started With ML
 <h1> Beginners Guide to Machine Learning </h1>
 
 Well it got redundent over time explaning the same thing to juniors, and I kept on missing out on stuff, so here's a comprehensive guide on how one should approach Machine Learning.
