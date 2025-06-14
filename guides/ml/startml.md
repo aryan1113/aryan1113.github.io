@@ -4,7 +4,7 @@
 layout: default
 published : false
 title: Getting Started With ML
-permalink: /guides/startml/  
+permalink: /guides/ml/startml/  
 hidden : true
 --->
 Getting Started With ML
