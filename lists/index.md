@@ -12,6 +12,10 @@ I absolutely love planning well in advance, which might cause me to fall into a 
 - [Misc reading, something really off topic](./readmisc)
 - [Wish I knew these earlier](./wishiknew)
 
+<hr style="border:1px solid gray">
+(╯°□°）╯ ︵ ┻━┻ <br>
+tableflip as a line break
+
 ## Travel
 - [Why not manifest Travel](./travelwishlist)
 - [Guide to Mumbai](./mumbai)
