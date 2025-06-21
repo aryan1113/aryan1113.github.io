@@ -1,6 +1,6 @@
 ---
 layout: guides
-title: ml-notes
+title: Faily advanced ML
 ---
 
 A bit advanced topics, to separate in-depth notes from the fairly simple ones

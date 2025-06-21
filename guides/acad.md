@@ -10,6 +10,10 @@ Troubled by Academics ?
 </h1>
 Check out past year papers, [compiled and maintained by BitByte (hopefully)](https://drive.google.com/drive/folders/1v4t1wpWpf_ydZ0o_llEwDZ-wHEsyLsIL)
 
+The following two links only work on the institute intra-net, which has a periodic habit of going haywire every evaluation season (midsem and endsem); so archive this pretty early on.
+Barely maintained, most of paper compilations are really old / incomplete, with the introductory-videos being completely outdated as profs discontinue courses / shift institutes.
+
+If you can, push the senators to raise this with Dean Academics, to have the 'introductory videos' refreshed periodically.
 [Academic Info Page](http://172.27.16.19/academic%20info/)
 [Academic Question Bank, is not revised periodically](http://172.27.16.19/academic%20info/Examination%20Question%20Bank/)
 

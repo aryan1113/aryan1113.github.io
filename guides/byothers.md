@@ -3,6 +3,9 @@ layout: guides
 title: ml-notes
 ---
 
+filler text
+
+Some really cool blogs/guides compiled over the years
 
 1. [Overfitting explained simply](https://www.ibm.com/cloud/learn/overfitting)
 

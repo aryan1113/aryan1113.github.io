@@ -13,10 +13,14 @@ Well I read a lot, escpecially things involving Data, so this should serve as an
 butterfly as a line break
 
 <h2> Head over to </h2>
+All [ML related notes are under this page](../guides/ml/ml-index.md), which is further divided into
 - [Fairly interesting ML stuff](../guides/ml/ml-adv.md)
+
+- [Paper summaries, or blog summaries](../guides/ml/paper-summary.md), trying to break down jargons into easy to read micro-notes.
 
 - [Basic ML stuff](../guides/ml/ml-basics.md) 
 
+Other texts I enjoyed 
 - [Guides and notes, written by Others](../guides/byothers.md)\
 Most of these have been put up on the [college discord server](https://discord.gg/b4szAeN3gq) under the channel "#data-n-stuff".\
 Compiled over the years, this is hard to keep a track of though.

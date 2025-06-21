@@ -1,6 +1,6 @@
 ---
 layout: guides
-title: ml-notes
+title: ML Basics Refresher
 ---
 
 To get started with Machine Learning, here are some notes from my sophomore year 
