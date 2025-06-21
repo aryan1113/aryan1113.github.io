@@ -1,0 +1,17 @@
+{% if page.usemathjax %}
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    tex2jax: {
+      inlineMath: [ ['$', '$'], ['\\(', '\\)'] ], // Inline math with single dollar or \( \)
+      displayMath: [ ['$$', '$$'], ['\\[', '\\]'] ], // Block math with double dollar or \[ \]
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}

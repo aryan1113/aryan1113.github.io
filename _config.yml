@@ -13,6 +13,8 @@ twitter_username: aisehiaryan
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 permalink: /:title/
 
 # Sections to display
