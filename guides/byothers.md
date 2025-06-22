@@ -1,9 +1,7 @@
 ---
 layout: guides
-title: ml-notes
+title: amazing reads
 ---
-
-filler text
 
 Some really cool blogs/guides compiled over the years
 

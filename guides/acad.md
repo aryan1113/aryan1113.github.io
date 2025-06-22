@@ -1,8 +1,7 @@
 ---
 layout: guides
-title: ml-notes
+title: acads @IIIT
 ---
-
 
 Everything about my time at IIIT Jabalpur
 <h1>

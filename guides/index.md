@@ -3,7 +3,6 @@ layout: guides
 title: all-notes
 ---
 
-filler text
 # All Technical Notes I Could think of
 
 Well I read a lot, escpecially things involving Data, so this should serve as an easy-to-maintain Knowledge Base.
@@ -28,5 +27,6 @@ Compiled over the years, this is hard to keep a track of though.
 - [Academics at IIIT Jabalpur](../guides/acad.md)\
 Surviving Electronics, currently stored in various GDocs, which I'll shift to this very repository, as an archive.
 
+- [really cool xkcd art](../guides/xkcd.md)
 
 Well that's it for now

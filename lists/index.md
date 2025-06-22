@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Every List curated
 ---
 
 # Well lists for everything ever planned

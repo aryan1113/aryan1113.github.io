@@ -3,7 +3,6 @@ layout: guides
 title: ml-notes
 ---
 
-filler text
 # Everything under the sun that is vaguely related to Machine Learning
 
 Hey I have been reading a lot, so why not document everything. \

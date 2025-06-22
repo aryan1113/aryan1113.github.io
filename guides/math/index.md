@@ -6,8 +6,6 @@ permalink: /guides/math/
 usemathjax: true
 --- 
 
-filler text
-
 To add short notes of everything math-related
 Shoudl focus only on really short things, to serve only as a refresher
 

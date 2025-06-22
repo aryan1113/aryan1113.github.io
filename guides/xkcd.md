@@ -3,8 +3,6 @@ layout: guides
 title: xkcd Art
 ---
 
-filler text
-
 I discovered xkcd art around 2020, and initially it felt kinda mundane and very template-ish, which after some ponit in time just kinda stuck with me.
 Over the years, I've grown fond of everything xkcd, heck I might enjoy anything that's wrapped within this format.
 
