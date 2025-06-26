@@ -17,8 +17,11 @@ I absolutely love planning well in advance, which might cause me to fall into a 
 tableflip as a line break
 
 ## Travel
-- [Why not manifest Travel](./travelwishlist)
-- [Guide to Mumbai](./mumbai)
+Well all of my travel plans can be [found at this page](./travelwishlist).
+It's way too small, so I'll list it's sections right here: 
+- [Scenic places](./travelwishlist.md#general)
+- [Train routes wishlist](./travelwishlist.md#train)
+- [How to travel around places I've been](./travelwishlist.md#travelGuide)
 
 ## Movies and everything cinema
 - [What Do I Watch Next](./watchlist)

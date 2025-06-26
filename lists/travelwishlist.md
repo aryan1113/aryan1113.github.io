@@ -47,6 +47,8 @@ Penned by others, not sure of how useful these are
 <hr style="border:1px solid gray">
 (¯`·._.·(¯`·._.· another line break ·._.·´¯)·._.·´¯) <br>
 
+<div id="travelGuide"></div>
+
 Might also be interested in :
 <h2>
 Travel Guides, for places I've been to
