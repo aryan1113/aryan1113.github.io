@@ -13,14 +13,14 @@
         <!-- Home page ka href -->
           <li>
             <a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>
-                Home
+                Home (root)
             </a>
         </li>
         
         <!-- Self domain notes -->
           <li>
             <a 
-            href="{{ site.baseurl }}/guides/ml/ml-index">
+            href="{{ site.baseurl }}/guides/ml/ml-index" {% if page.url contains 'ml-index' %}class="active"{% endif %}>
                 Everything ML
             </a>
         </li>
@@ -28,7 +28,7 @@
         <!-- Cool stuff written by others -->
           <li>
             <a 
-            href="{{ site.baseurl }}/guides/byothers">
+            href="{{ site.baseurl }}/guides/byothers" {% if page.url contains 'byothers' %}class="active"{% endif %}>
                 by Others
             </a>
         </li>
@@ -36,7 +36,7 @@
         <!-- Academic notes, how to survive through college -->
         <li>
             <a 
-            href="{{ site.baseurl }}/guides/acad">
+            href="{{ site.baseurl }}/guides/acad" {% if page.url contains 'acad' %}class="active"{% endif %}>
                 acads ?
             </a>
         </li>    

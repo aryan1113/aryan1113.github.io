@@ -6,10 +6,13 @@ theme: jekyll-theme-minimal
 # Site settings
 author: Aryan
 email: aryanpandeywork@gmail.com
+resume: https://t.co/ffNvoTIDow
 
 # Social media links
-github_username: aryan1113
-twitter_username: aisehiaryan
+twitter_url: "https://x.com/aisehiaryan"
+github_url: "https://github.com/aryan1113"
+hackmd_url: "http://hackmd.io/@aryan1113/"
+medium_url: "http://medium.com/@aryan1113/"
 
 # Build settings
 markdown: kramdown

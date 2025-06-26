@@ -10,7 +10,7 @@ I absolutely love planning well in advance, which might cause me to fall into a 
 <h3> Head over to a random assortment of lists </h3>
 - [Reading books, or atleast what I plan to do](./bookstoread)
 - [Misc reading, something really off topic](./readmisc)
-- [Wish I knew these earlier](./wishiknew)
+- [Wish I knew these earlier](./wishIknew)
 
 <hr style="border:1px solid gray">
 (╯°□°）╯ ︵ ┻━┻ <br>

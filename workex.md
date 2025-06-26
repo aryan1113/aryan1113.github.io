@@ -32,7 +32,7 @@ permalink: /workex/
 
 {% for talk in site.data.experiences.talks %}
 ### {{ talk.event }}
-**Date:** {{ talk.date_from | date: "%d %B %Y" }}  - {{talk.date_to}}\
+**Date:** {{ talk.date_from | date: "%d %B %Y" }}  - {{talk.date_to | date: "%d %B %Y"  }}\
 **Type:** {{ talk.type }}  
 
 **Key Takeaways:**

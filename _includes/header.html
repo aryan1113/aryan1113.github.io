@@ -20,7 +20,7 @@
         <!-- Experiences -->
           <li>
             <a 
-            href="{{ site.baseurl }}/workex">
+            href="{{ site.baseurl }}/workex" {% if page.url contains 'workex' %}class="active"{% endif %}>
                 Work-Ex
             </a>
         </li>
@@ -35,8 +35,8 @@
         <!-- Travel iternaries -->
           <li>
             <a 
-            href="{{ site.baseurl }}/lists/travelwishlist">
-                Travel Ideas
+            href="{{ site.baseurl }}/personal" {% if page.url contains 'personal' %}class="active"{% endif %}>
+                Curious ?
             </a>
         </li>
         

@@ -25,5 +25,8 @@ That would be enough for now, will add more stuff if I get inspired by cooler st
 <hr>
 ## Instructions
 
+When updating config : bundle exec jekyll clean
+
 To run locally use : bundle exec jekyll serve
+
 Run python scripts using : python addReviews.py
