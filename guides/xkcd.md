@@ -7,7 +7,7 @@ description: xkcd art that I Aryan Pandey from IIIT Jabalpur, really like
 I discovered xkcd art around 2020, and initially it felt kinda mundane and very template-ish, which after some ponit in time just kinda stuck with me.
 Over the years, I've grown fond of everything xkcd, heck I might enjoy anything that's wrapped within this format.
 
-If one day, I do build something in this format, I'll house it under assests/xkcd-techincal, which would also be referred here.
+If one day, I do build something in this format, I'll house it under assets/xkcd-techincal, which would also be referred here.
 
 
 Here's a list of xkcd art I really had fun going through
