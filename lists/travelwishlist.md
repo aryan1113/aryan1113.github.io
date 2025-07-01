@@ -3,6 +3,7 @@ layout: default
 published : true
 title: procastinating :)
 permalink: /lists/travelwishlist/  
+description: A personal travel log of Aryan Pandey, exploring cities and countries while studying at IIIT Jabalpur
 --- 
 
 <h3> Head over to </h3>

@@ -1,6 +1,8 @@
 # _config.yml
 title: space
-description: does this sound good
+description: A personal site by Aryan Pandey from IIIT Jabalpur showcasing readings, projects, work experience, and travel notes.
+url: "https://aryan1113.github.io"
+
 theme: jekyll-theme-minimal
 
 # Site settings
@@ -26,3 +28,6 @@ sections:
   - interview-experiences
   - technical-notes
   - travel-ideas
+
+plugins:
+  - jekyll-sitemap

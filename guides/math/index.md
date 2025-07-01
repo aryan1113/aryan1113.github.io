@@ -2,6 +2,7 @@
 layout: guides
 published : true
 title: small math refreshers
+description: math refreshers, to quickly go through really simple math topics written by Aryan Pandey from IIIT Jabalpur
 permalink: /guides/math/  
 usemathjax: true
 --- 

@@ -1,6 +1,7 @@
 ---
 layout: guides
 title: acads @IIIT
+description: academic tales by Aryan Pandey from IIIT Jabalpur
 ---
 
 Everything about my time at IIIT Jabalpur

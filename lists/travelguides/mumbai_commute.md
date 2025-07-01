@@ -3,6 +3,7 @@ layout: default
 published : true
 title: Commuting in and around Mumbai
 permalink: /travelguides/mumbai/  
+description: travelling around Mumbai, written by Aryan Pandey from IIIT Jabalpur
 --- 
 
 <div id="Mumbai in General"></div>

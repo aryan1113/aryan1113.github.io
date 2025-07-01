@@ -28,3 +28,20 @@ nav ul {
 section {
     margin-bottom: 40px;
 }
+---
+---
+
+@import "{{ site.theme }}"; // Import your theme first
+
+// Add this after the import so it overrides theme defaults
+a {
+  color: #0077cc !important;             // Make links blue
+  text-decoration: underline !important; // Force underline
+  font-weight: 500;
+}
+
+a:hover,
+a:focus {
+  color: #005fa3 !important;             // Darker blue on hover
+  text-decoration: none !important;      // Clean hover (optional)
+}

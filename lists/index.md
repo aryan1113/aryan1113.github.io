@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Every List curated
+description: all lists ever created and maintain Aryan Pandey from IIIT Jabalpur should be right here
 ---
 
 # Well lists for everything ever planned

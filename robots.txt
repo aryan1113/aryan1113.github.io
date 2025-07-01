@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aryan1113.github.io/sitemap.xml

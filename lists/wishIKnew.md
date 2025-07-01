@@ -3,6 +3,7 @@ layout: default
 published : true
 title: Wish I Knew This Before
 permalink: /lists/wishIknew/  
+description: life saver tips, by Aryan Pandey from IIIT Jabalpur
 --- 
 
 To be populated sometime later, I do not have a lot of things tbh haha

@@ -1,6 +1,7 @@
 ---
 layout: guides
 title: all-notes
+description: all technical notes written by Aryan Pandey from IIIT Jabalpur
 ---
 
 # All Technical Notes I Could think of

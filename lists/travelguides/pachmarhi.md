@@ -3,6 +3,7 @@ layout: default
 published : true
 title: Pachmarhi guide
 permalink: /travelguides/pachmarhi/  
+description: Personal travel log by Aryan Pandey from IIIT Jabalpur
 --- 
 
 <h2> A bit of a backstory </h2>
