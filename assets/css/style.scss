@@ -1,4 +1,3 @@
-# assets/css/style.scss
 ---
 ---
 
@@ -7,9 +6,12 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
-    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+}
+.content-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 header {
@@ -28,20 +30,73 @@ nav ul {
 section {
     margin-bottom: 40px;
 }
----
----
 
 @import "{{ site.theme }}"; // Import your theme first
 
-// Add this after the import so it overrides theme defaults
-a {
-  color: #0077cc !important;             // Make links blue
-  text-decoration: underline !important; // Force underline
+.fun-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.fun-gallery a {
+  color: #0077cc;
+  text-decoration: underline;
   font-weight: 500;
 }
 
-a:hover,
-a:focus {
-  color: #005fa3 !important;             // Darker blue on hover
-  text-decoration: none !important;      // Clean hover (optional)
+.fun-gallery a:hover,
+.fun-gallery a:focus {
+  color: #005fa3;
+  text-decoration: none;
+}
+
+.fun-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 0.5rem;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.fun-item:hover {
+  transform: scale(1.02);
+}
+
+.fun-item .image-wrapper {
+  flex-shrink: 0;
+  height: 200px;  /* fixed image area */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.fun-item img {
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.caption,
+.meta {
+  margin-top: 0.6rem;
+  font-size: 0.9rem;
+  text-align: center;
+  color: #555;
+}
+
+.meta {
+  font-size: 0.75rem;
+  color: #888;
+}
+.fun-gallery {
+  align-items: start;
+  margin-bottom: 4rem;
 }
