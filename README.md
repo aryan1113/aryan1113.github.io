@@ -23,6 +23,7 @@ Can add a heatmap of sorts to visualize how often I binge watch
 That would be enough for now, will add more stuff if I get inspired by cooler stuff outside.
 
 <hr>
+
 ## Instructions
 
 When updating config : bundle exec jekyll clean

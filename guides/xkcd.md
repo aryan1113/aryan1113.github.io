@@ -9,7 +9,6 @@ Over the years, I've grown fond of everything xkcd, heck I might enjoy anything 
 
 If one day, I do build something in this format, I'll house it under assets/xkcd-techincal, which would also be referred here.
 
-
 Here's a list of xkcd art I really had fun going through
 
 <h3> Head over to </h3>
@@ -18,7 +17,6 @@ Here's a list of xkcd art I really had fun going through
 - [Someone make these](#MakeThis)
 
 <div id="math"></div>
-
 
 <h2> On math, which is basically the entire xkcd-page </h2>
 Should have some text here

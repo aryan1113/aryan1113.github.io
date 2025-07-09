@@ -25,17 +25,16 @@ Weed out auto rides that can just be walks, helps save a lot.
 <h3>
 What apps to use ? 
 </h3>
-- Google Maps
+1. **Google Maps**
 Most comprehensive solution out there, except for the intercity - buses which do not make sense. Check this to analyze the best travel mode. Under public - transport tab look for mixed-modes which is probably what the experts / old guys take.
 
-- Chalo
-Observe bus frequency, only works for the Mumbai island. 
-Not integrated with NMMT which is a dud
-
-- MIndicator
+2. **MIndicator**
 Check Train running status, very crucial if you have to choose from a Slow local and a Fast one, as switching platforms is impossible at the last moment. Helps plan well in advance, usually 20-30mins.
 Also you can check Auto Fares, compare with Rapido / Uber to see if hailing an auto from the streets would be cheaper.
 
+3. **Chalo**
+Observe bus frequency, only works for the Mumbai island. 
+Not integrated with NMMT which is a dud
 <h2>
 Travelling by bus ?
 </h2>
@@ -67,11 +66,11 @@ Kurla has exits to East and West both from PF1, which is weird and unpleasent fo
 <h2>
 Food Options in Mumbai
 </h2>
-Check location and judge very harshly, do not shy away from using all your pre-conceived notions to reject a place.\
-Socials outlets are good to start with, this gives you 3-4meetups, post which you'll figure out stuff.\
+Check location and judge very harshly, do not shy away from using all your pre-conceived notions to reject a place.<br>
+Socials outlets are good to start with, this gives you 3-4meetups, post which you'll figure out stuff.<br>
 Avoid roadside outlets, especially if that's around low-density residential layouts as ingredient sourcing and kitchen hygiene is Diarrhea - inducing to say the least.
 
-Avoid leafy vegetables in Monsoon\
+Avoid leafy vegetables in Monsoon<br>
 Assume its sourced from a gutter - nallah nearby for all stalls, unless you know for sure.
 
 
@@ -82,18 +81,18 @@ Plan for nightouts
 Check high tide timings, happens usually around 1AM. Police will drive out everyone from Beaches / Promenades for safety reasons as tide variation can be huge (4m+).\
 Remember the Police is here to help, not to ruin your day. They'll move to other areas as the tide reduces and it's safe to venture out to the sea, usually 2AM.
 
-Do not smoke / drink on the beach, as\
+Do not smoke / drink on the beach, as
 <ol type = "a">
 <li> Ruins the experience for others </li> 
 <li> Cigarette butts are hard to remove, adding to it the sea deposits a lot of waste onto the beaches frequently </li> 
 <li>  Punishable offence </li> 
 </ol>
 
-Entirety of Juhu - Versova beaches get swallowed.\
+Entirety of Juhu - Versova beaches get swallowed.<br>
 Monsoons can be risky, and filthy. So avoid at all costs.
 
 Look around for public - washrooms nearby. Try not to catch a UTI, all of these are pay-to-use with neglient cleaning. Hours on google maps may not be correct, most do not stay operational between 2-6 AM.
 
-Keep an eye on your phone battery, plan well in advance for the return commute.\
-Trains start at 4AM, metros from 6AM but so does the crowd.\
+Keep an eye on your phone battery, plan well in advance for the return commute.<br>
+Trains start at 4AM, metros from 6AM but so does the crowd.<br>
 Remember you'll never find empty buses / trains / metros so start early and reach home before 9AM.

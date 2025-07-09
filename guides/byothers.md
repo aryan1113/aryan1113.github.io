@@ -4,7 +4,7 @@ title: amazing reads
 description: notes, blogs and writings compiled over the years, primarily shared via discord by Aryan Pandey from IIIT Jabalpur
 ---
 
-Some really cool blogs/guides compiled over the years
+### Some really cool blogs/guides compiled over the years
 
 1. [Overfitting explained simply](https://www.ibm.com/cloud/learn/overfitting)
 
