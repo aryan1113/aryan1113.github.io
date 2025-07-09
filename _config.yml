@@ -31,3 +31,12 @@ sections:
 
 plugins:
   - jekyll-sitemap
+
+# For references to friends
+friend:
+  aryan_shrivastava:
+    name: Aryan Shrivastava
+    linkedin: https://www.linkedin.com/in/aryan-shrivastava23/
+  armin_patel:
+    name: Armin Patel
+    linkedin: https://www.linkedin.com/in/arminpatel/
