@@ -1,13 +1,15 @@
 ---
 layout: guides
-title: ML Basics Refresher
----
+title: machine learning basics
+description: ML refreshers, for interview prep or just glossing around
+usemathjax: true
+--- 
 
+To add everything markdown from hackmd
+
+<h3>
 To get started with Machine Learning, here are some notes from my sophomore year 
-
-<h2>
-
-</h2>
+</h3>
 
 1. [Getting Started With ML](./startml.md)
 

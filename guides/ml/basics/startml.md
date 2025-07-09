@@ -1,12 +1,9 @@
-
-<!-- 
 ---
-layout: default
-published : false
+layout: guides
 title: Getting Started With ML
-permalink: /guides/ml/startml/  
-hidden : true
---->
+description: for beginners just starting out with machine learning
+---
+
 Getting Started With ML
 <h1> Beginners Guide to Machine Learning </h1>
 
