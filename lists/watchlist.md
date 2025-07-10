@@ -1,7 +1,7 @@
 ---
 layout: default
 published : true
-title: procastinating : )
+title: procastinating :)
 permalink: /lists/watchlist/  
 description: movies I have watched or plan to watch Aryan Pandey from IIIT Jabalpur
 --- 
