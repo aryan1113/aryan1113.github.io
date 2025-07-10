@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Difficulty in Training RNNs
 description: why do we not use RRNs in common practice 
 usemathjax: true

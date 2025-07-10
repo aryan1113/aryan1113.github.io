@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Linear Least Squares Regression
 description: regress using matrices
 usemathjax: true

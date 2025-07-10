@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Beat The Market @IIT Kanpur
 description: Built at Techkriti, 2023 alongside <a href="{{ site.friend.prajwal_rayal.linkedin }}" target="_blank">
   {{ site.friend.prajwal_rayal.name }} </a> 

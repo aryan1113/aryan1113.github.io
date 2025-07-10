@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Summarizing Netflix ML Blogs
 description: Had quite some free time, went through 3 netflix blogs over the weekend
 usemathjax: true

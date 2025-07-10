@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Positional Encoding for Transformers
 description: well all transform blogs talk about the same 3 matrices, so here's positional encoding, something which is interesting to discuss as well
 usemathjax: true

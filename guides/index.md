@@ -13,25 +13,25 @@ Well I read a lot, escpecially things involving Data, so this should serve as an
 butterfly as a line break
 
 <h2> Head over to </h2>
-All [ML related notes are under this page](../guides/ml/index.md), which is further divided into
+All <a href="../guides/ml/index.md" target="_blank">ML related notes are under this page</a>, which is further divided into
 
-- [Fairly interesting ML stuff](../guides/ml/adv/index.md)
+- <a href="../guides/ml/adv/index.md" target="_blank">Fairly interesting ML stuff</a>
 
-- [Paper summaries, or blog summaries](../guides/ml/paper-summary/index.md), trying to break down jargon into easy to read micro-notes.
+- <a href="../guides/ml/paper-summary/index.md" target="_blank">Paper summaries, or blog summaries</a>, trying to break down jargon into easy to read micro-notes.
 
-- [Tech Blog summaries, ML in production systems](../guides/ml/in-prod/index.md), simplifying tech blogs into short and easy to read notes.
+- <a href="../guides/ml/in-prod/index.md" target="_blank">Tech Blog summaries, ML in production systems</a>, simplifying tech blogs into short and easy to read notes.
 
-- [Basic ML stuff](../guides/ml/basics/index.md) 
+- <a href="../guides/ml/basics/index.md" target="_blank">Basic ML stuff</a> 
 
 Other texts I enjoyed 
-- [Guides and notes, written by Others](../guides/byothers.md)
+- <a href="../guides/byothers.md" target="_blank">Guides and notes, written by Others</a>
 
-Most of these have been put up on the [college discord server](https://discord.gg/b4szAeN3gq) under the channel "#data-n-stuff".
+Most of these have been put up on the <a href="https://discord.gg/b4szAeN3gq" target="_blank">college discord server</a> under the channel "#data-n-stuff".  
 Compiled over the years, this is hard to keep a track of though.
 
-- [Academics at IIIT Jabalpur](../guides/acad.md)\
+- <a href="../guides/acad.md" target="_blank">Academics at IIIT Jabalpur</a>\
 Surviving Electronics, currently stored in various GDocs, which I'll shift to this very repository, as an archive.
 
-- [really cool xkcd art](../guides/xkcd.md)
+- <a href="../guides/xkcd.md" target="_blank">really cool xkcd art</a>
 
 Well that's it for now

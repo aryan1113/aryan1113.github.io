@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Brick Kiln Detection IITGn
 description: Was thinking of applying to the sustainability lab at IITGn, this was one of the papers I read, on detecting brick kilns using satellite imagery.
 usemathjax: true

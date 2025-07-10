@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Vision Transformers
 description: Oh wow, everything can be applied in Vision it seems
 usemathjax: true

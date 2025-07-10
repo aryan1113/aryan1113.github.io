@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  {% include mathjax.html %} 
+
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ '/assets/favicon/favicon-96x96.png' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon/favicon.svg' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/assets/favicon/site.webmanifest' | relative_url }}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <style>
+    /* Scroll to top button styles */
+    .scroll-to-top {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 50px;
+      height: 50px;
+      background-color: #333;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      z-index: 1000;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .scroll-to-top:hover {
+      background-color: #555;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    }
+
+    .scroll-to-top:active {
+      transform: translateY(0);
+    }
+
+    .scroll-to-top.show {
+      display: flex;
+    }
+
+    .scroll-to-top::before {
+      content: "↑";
+      font-weight: bold;
+    }
+
+    @media (max-width: 768px) {
+      .scroll-to-top {
+        bottom: 15px;
+        right: 15px;
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  {% include header_ml_guides.html %}
+
+  <main class="content-wrapper">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  <!-- Scroll to top button -->
+  <button class="scroll-to-top" id="scrollToTopBtn" aria-label="Scroll to top" title="Scroll to top"></button>
+
+  <script>
+    // Scroll to top functionality
+    (function() {
+      const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+      function toggleScrollButton() {
+        if (window.pageYOffset > 300) {
+          scrollToTopBtn.classList.add('show');
+        } else {
+          scrollToTopBtn.classList.remove('show');
+        }
+      }
+
+            // Smooth scroll to top
+      function scrollToTop() {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+      }
+
+            // Event listeners
+      window.addEventListener('scroll', toggleScrollButton);
+      scrollToTopBtn.addEventListener('click', scrollToTop);
+
+            // Handle keyboard navigation
+      scrollToTopBtn.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          scrollToTop();
+        }
+      });
+    })();
+  </script>
+
+  <p style="text-align:center; font-size: 1em;">
+    Last updated: {{ site.time | date: "%B %e, %Y" }}
+  </p>
+</body>
+</html>

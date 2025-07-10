@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Deep Learning by Alexander Amini
 description: Well course notes from youtube lectures, might be useful
 usemathjax: true

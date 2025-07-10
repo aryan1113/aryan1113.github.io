@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Long Tailed Visual Recognition, Tsinghua University
 description: Amazing paper, flows smoothly, why not give this a shot
 usemathjax: true

@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Faily advanced ML
 description: Advanced topics from Machine Learning by Aryan Pandey from IIIT Jabalpur
 ---
@@ -31,3 +31,11 @@ In no particular order
         target="_blank" 
         rel="noopener noreferrer">
         paper summary directory</a>
+- <a href="./weight_init" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Weight Initialization in Neural Networks</a>
+- <a href="https://docs.google.com/document/d/1GzmrIF3Z7mEk_lhTqhF4HicyINtNCHv21O3a2Guu7q4/edit?usp=sharing" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    What even are RAGs</a>, Saw Sony Research asking for RAGs for undergrad research positions, hence this.

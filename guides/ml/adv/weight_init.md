@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Weight Initialization for Neural Networks
 description: special hyperparamter, which sometimes just improves glide to the optima point
 usemathjax: true

@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Geographical Erasure in Language Generation, from KIAC IISc
 description: do LLM outputs ignore certain countries ? From the Kotak IISc AI-ML Center
 usemathjax: true

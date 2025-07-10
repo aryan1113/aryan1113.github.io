@@ -1,5 +1,5 @@
 ---
-layout: guides
+layout: ml-guides
 title: Getting Started With ML
 description: for beginners just starting out with machine learning
 ---
