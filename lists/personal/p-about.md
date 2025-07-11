@@ -17,3 +17,6 @@ Some of my interests include
 
 I like numbers, or maybe just a bit too much, so I track a lot of things, which is a bit worrying because when numbers become metrics, we end up focusing a lot on these metrics and forget that there's life outside of these : )\
 Making up my mind to really keep these numbers without getting attached; this page is just to map out things I enjoy doing.
+
+## Fun tab
+- <a href="../fun" target="_blank">Checkout this</a>, for few things I found memorable from my huge online footprint

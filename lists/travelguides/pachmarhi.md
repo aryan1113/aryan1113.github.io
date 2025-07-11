@@ -13,7 +13,7 @@ Curated a maps-list for him right away, but it sucks away the pleasure of docume
 
 So here's a small (and incomplete) guide to Pachmarhi, based on what I could cover with Priyansh after our 3rd semester.
 
-[GMaps list of all I could remember](https://maps.app.goo.gl/ZSBfb2HsWukLTEnP6)
+<a href="https://maps.app.goo.gl/ZSBfb2HsWukLTEnP6" target="_blank" rel="noopener noreferrer">GMaps list</a> of all I could remember
 
 Honestly this trip doesn't require a lot of planning, just need to lookup the places once, and decide on how would you traverse the hill.
 

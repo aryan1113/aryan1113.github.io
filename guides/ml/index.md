@@ -19,23 +19,23 @@ To be added, as I compile notes from HackMD and Medium to this repo
     target="_blank" 
     rel="noopener noreferrer">
     All paper summaries, index page</a>
-- <a href="./energy_disaggregation" 
+- <a href="./paper-summary/energy_disaggregation" 
     target="_blank" 
     rel="noopener noreferrer">
     Energy disaggregation</a>
-- <a href="brick_kiln" 
+- <a href="./paper-summary/brick_kiln" 
     target="_blank" 
     rel="noopener noreferrer">
     Identify Brick Kilns through satellite imagery</a>
-- <a href="geo_erasure" 
+- <a href="./paper-summary/geo_erasure" 
     target="_blank" 
     rel="noopener noreferrer">
     Geogrpahical Erasure in Language Model Generation</a>
-- <a href="pollution_bias"
+- <a href="./paper-summary/pollution_bias"
     target="_blank" 
     rel="noopener noreferrer">
     Print media bias on air pollution</a>
-- <a href="long_tail_proco" 
+- <a href="./paper-summary/long_tail_proco" 
     target="_blank" 
     rel="noopener noreferrer">
     Long Tailed Visual Recognition</a>
@@ -46,11 +46,11 @@ Breaking down jargon filled tech blogs into simple and short notes
     target="_blank" 
     rel="noopener noreferrer">
     All tech blog notes, index page</a>
-- <a href="./ds_search" 
+- <a href="./in-prod/ds_search" 
     target="_blank" 
     rel="noopener noreferrer">
     Data Science Applications for Search</a>
-- <a href="./netflix" 
+- <a href="./in-prod/netflix" 
     target="_blank" 
     rel="noopener noreferrer">
     Summary of 3 Netflix Tech Blogs</a>
@@ -64,29 +64,29 @@ To be added, as I compile notes from HackMD and Medium to this repo
     target="_blank" 
     rel="noopener noreferrer">
     All Advanced topic notes, index page</a>
-- <a href="./pos_encoding" 
+- <a href="./adv/pos_encoding" 
     target="_blank" 
     rel="noopener noreferrer">
     Positional Encoding in Transformer Blocks</a>
-- <a href="./training_rnn" 
+- <a href="./adv/training_rnn" 
     target="_blank" 
     rel="noopener noreferrer">
     Difficulty with Training RNNs</a>
-- <a href="./vision_transformers" 
+- <a href="./adv/vision_transformers" 
     target="_blank" 
     rel="noopener noreferrer">
     Vision Transformers</a>
-- <a href="../paper-summary/long_tail_proco" 
+- <a href="../ml/paper-summary/long_tail_proco" 
     target="_blank" 
     rel="noopener noreferrer">
     Long Tailed Visual Recognition</a>, 
     talks about Long Tail Distribution, Contrastive Pairs, von Misher Fisher distribution (gaussian on a curve). <br> I know I know, this sounds more like a paper summary, yes it is. <br>
     This is also referred in the 
-    <a href="../paper-summary/" 
+    <a href="../ml/paper-summary/" 
         target="_blank" 
         rel="noopener noreferrer">
         paper summary directory</a>
-- <a href="./weight_init" 
+- <a href="./adv/weight_init" 
     target="_blank" 
     rel="noopener noreferrer">
     Weight Initialization in Neural Networks</a>
@@ -101,7 +101,7 @@ To be used as a refresher, interview prep, or just to gloss around
     target="_blank" 
     rel="noopener noreferrer">
     All basic notes, index page</a>
-- <a href="./idl_amini" 
+- <a href="./basics/idl_amini" 
     target="_blank" 
     rel="noopener noreferrer">
     IDL by Alexander Amini Notes</a> 
@@ -109,11 +109,11 @@ To be used as a refresher, interview prep, or just to gloss around
     target="_blank" 
     rel="noopener noreferrer">
     BSoC Summary Sheet, in drive</a>, whish was a fun toned down ML Primer for sophomores 
-- <a href="./least_squares" 
+- <a href="./basics/least_squares" 
     target="_blank" 
     rel="noopener noreferrer">
     Linear Least Squares Method</a> 
-- <a href="./stock_predictor" 
+- <a href="./basics/stock_predictor" 
     target="_blank" 
     rel="noopener noreferrer">
     Stock Price Regressor at IITK</a> 

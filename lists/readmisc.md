@@ -7,8 +7,7 @@ description: well If I even find myself to be extremely free, this is what I, Ar
 ---
 
 ## Wasn't really why, but I had this written down as well
-
-- [Business Law](https://www.icai.org/post/sm-foundation-p2-sec-a-may2021onwards)
+- <a href="https://www.icai.org/post/sm-foundation-p2-sec-a-may2021onwards" target="_blank" rel="noopener noreferrer">Business Law</a>
 - Companies Act of 1956
 - NCERT all books for arts stream except psychology
 - Commodities boom

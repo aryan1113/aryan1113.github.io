@@ -43,7 +43,7 @@ Scenic Train Journeys
 Guides to cover cities 
 </h2>
 Penned by others, not sure of how useful these are
-- [Bangalore guide](https://guide.thebangaloreguy.com/)
+- <a href="https://guide.thebangaloreguy.com/" target="_blank" rel="noopener noreferrer">Bangalore Guide</a>
 
 <hr style="border:1px solid gray">
 (¯`·._.·(¯`·._.· another line break ·._.·´¯)·._.·´¯) <br>
@@ -54,5 +54,5 @@ Might also be interested in :
 <h2>
 Travel Guides, for places I've been to
 </h2> 
-- [Mumbai Travel Guide]({{ site.baseurl }}/travelguides/mumbai/), written by me :)
-- [Pachmarhi, Hill Station near Jabalpur]({{ site.baseurl }}/travelguides/pachmarhi/)
+- <a href="{{ site.baseurl }}/travelguides/mumbai/" target="_blank" rel="noopener noreferrer">Mumbai Travel Guide</a>, written by me :)
+- <a href="{{ site.baseurl }}/travelguides/pachmarhi/" target="_blank" rel="noopener noreferrer">Pachmarhi, Hill Station near Jabalpur</a>

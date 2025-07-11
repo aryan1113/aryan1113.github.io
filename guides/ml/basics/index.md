@@ -11,7 +11,7 @@ To add everything markdown from hackmd
 To get started with Machine Learning, here are some notes from my sophomore year 
 </h3>
 
-1. [Getting Started With ML](./startml.md)
+1. [Getting Started With ML](./startml)
 
 2. <a href="./idl_amini" 
     target="_blank" 
