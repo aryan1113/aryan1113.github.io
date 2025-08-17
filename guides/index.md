@@ -25,7 +25,7 @@ All <a href="../guides/ml/index" target="_blank">ML related notes are under this
 - <a href="../guides/ml/basics/index" target="_blank">Basic ML stuff</a> 
 
 <h3> What next would I explore </h3>
-- <a href="../guides/adv_ml_explore" target="_blank">More on computer science fundamentals</a>, or just a mundane list from YouTube videos I couldn't understand.
+- <a href="../guides/adv_cs_explore" target="_blank">More on computer science fundamentals</a>, or just a mundane list from YouTube videos I couldn't understand.
 
 - <a href="../guides/adv_ml_explore" target="_blank">Advanced Topics in Machine Learning</a> that would feel overwhelming to a sophomore, compiled when I was a sophomore.
 

@@ -23,7 +23,7 @@ Here is a (not comprehensive) list of topics I didn't go through during my under
 
 ### ML @IITK
 - Latent variable models:  expectation-maximization for learning latent variable models
-- Ranking methods (also related to search, my work domain at [Carousell](../workex.md))
+- Ranking methods (also related to search, my work domain at <a href="../../workex" target="_blank" rel="noopener noreferrer">Carousell</a>)
 - Sequence Tagging
 - Manifold Learning
 - Sparse modelling and estimation
