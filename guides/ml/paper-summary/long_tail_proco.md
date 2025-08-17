@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-07-10 21:19:02 +0530
 layout: ml-guides
 title: Long Tailed Visual Recognition, Tsinghua University
 description: Amazing paper, flows smoothly, why not give this a shot

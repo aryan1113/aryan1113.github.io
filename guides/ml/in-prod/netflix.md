@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-07-10 21:19:02 +0530
 layout: ml-guides
 title: Summarizing Netflix ML Blogs
 description: Had quite some free time, went through 3 netflix blogs over the weekend

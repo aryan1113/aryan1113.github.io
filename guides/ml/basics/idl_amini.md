@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-07-10 21:19:02 +0530
 layout: ml-guides
 title: Deep Learning by Alexander Amini
 description: Well course notes from youtube lectures, might be useful

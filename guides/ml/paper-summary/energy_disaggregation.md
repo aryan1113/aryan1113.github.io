@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-07-10 21:19:02 +0530
 layout: ml-guides
 title: Towards reproducable SOTA Energy Disaggregation, IITGn
 description: Smart meters push out consumption data to suppliers in real time, disaggregation helps increase granularity

@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-07-10 21:19:02 +0530
 layout: ml-guides
 title: Biased media reporting on Air Pollution
 description: Another paper I read while applying for the Sustainability Lab at IITGn, talks about how media attention is concentrated to the urban centers of Delhi NCR.
