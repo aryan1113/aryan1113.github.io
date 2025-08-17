@@ -1,0 +1,41 @@
+name: Update Last Modified Dates
+
+on:
+  push:
+    branches: ["*"]
+  workflow_dispatch: # allow manual runs
+
+jobs:
+  update-dates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # so we have full git history
+
+      - name: Update last_modified front matter
+        run: |
+          for file in $(find . -name "*.md" -o -name "*.markdown"); do
+            # get last commit date for the file
+            last_date=$(git log -1 --format="%ad" --date=iso -- "$file")
+            
+            # check if file has front matter
+            if grep -q '^---' "$file"; then
+              # if last_modified already exists, replace it
+              if grep -q '^last_modified:' "$file"; then
+                sed -i "s/^last_modified:.*/last_modified: $last_date/" "$file"
+              else
+                # insert last_modified after first --- line
+                awk -v d="last_modified: $last_date" 'NR==2{print d}1' "$file" > tmp && mv tmp "$file"
+              fi
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Update last_modified dates"
+          git push
