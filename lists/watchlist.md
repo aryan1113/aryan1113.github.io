@@ -18,6 +18,12 @@ movies
 </h1>
 
 <h2>
+2025 watchlist
+</h2>
+1. Karwaan 2018, by Vikash
+2. Johnny Gaddaar 2007, by Vikash
+3. A Madea Homecoming 2022
+<h2>
 2024 watchlist
 </h2>
 1. Dance Flick 2009
@@ -112,3 +118,4 @@ Documentaries
 </h1>
 
 1. House of secrets
+2. The Silk Road, recommended by Vikash

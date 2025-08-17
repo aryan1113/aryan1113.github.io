@@ -75,7 +75,8 @@ def create_yearly_monthly_heatmap(dates, years=None):
         cmap=custom_cmap,  
         annot=True,        
         fmt='g',           
-        cbar_kws={'label': 'Number of Movies Watched'}
+        cbar_kws={'label': 'Number of Movies Watched'},
+        annot_kws={'size':16}
     )
     
     

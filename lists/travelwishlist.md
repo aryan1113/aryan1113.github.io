@@ -8,6 +8,7 @@ description: A personal travel log of Aryan Pandey, exploring cities and countri
 
 <h3> Head over to </h3>
 - [Aise hi, some scenic places](#general)
+- [Compiled by Mahajan](#mahajan)
 - [Some scenic train journeys](#train)
 - [How To Roam Around Cities](#cityGuide)
 
@@ -20,6 +21,17 @@ Generic Places
 - Rajouri district in J&K
 - Pench National Park in MP
 - Orchha, Madhya Pradesh 
+
+<div id="mahajan"></div>
+
+<h2>
+Compiled by Mahajan
+</h2>
+
+<h3> Around Kashmir </h3>
+- Kokernag Spring https://maps.app.goo.gl/wUwwuwWY6hA924pj9 
+- Sinthan Top https://maps.app.goo.gl/MhU6epPrj7PHdisp6 
+- Verinag Spring https://maps.app.goo.gl/97sQGrQmdrfAZDXo6 
 
 <div id="train"></div>
 

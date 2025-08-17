@@ -29,6 +29,21 @@ description: All movies I've watched from 2021-present by Aryan Pandey from IIIT
 
 ## Watch List 2025
 
+### Karthik Calling Karthik 2010
+- **Rating**: ★★★★☆ 8
+- **Genre**: Thriller
+- **Date** : 26 July 2025
+- **Brief Review**: 
+A strong 8, especially for the crowd I got to see this with. Had seen this in pieces and bits long ago, but could not build a coherent story. Seeing this from Mahajan's theatre was something of it's own, I'll highly recommend doing this if you're in / around BLR atleast once. Coming to the plot, pretty early on it gets a bit predictable but still keeps you hooked, also you get amazing dance breaks : )
+        
+
+
+### Se7en 1995
+- **Rating**: ★★★★☆ 8
+- **Genre**: Thriller
+- **Date** : 12 June 2025
+- **Brief Review**: 
+Thriller, very captivating. Saw this with Divyansh, pretty shitty ending but yes none of us were expecting a good enough ending. Could predict some of it, but the way it unfolds is bizzare and disturbing. Good movie, but neither would watch this again nor recommend this to anyone.
 
 ### Magic Mike
 - **Rating**: ★☆☆☆☆ 2
@@ -37,16 +52,12 @@ description: All movies I've watched from 2021-present by Aryan Pandey from IIIT
 - **Brief Review**: 
 Has no plot except for Channing Tatum dancing
         
-
-
 ### The Lego Batman
 - **Rating**: ★★★★☆ 9
 - **Genre**: Action
 - **Date** : 8 April 2025
 - **Brief Review**: 
 Great fun movie for kids, lots of teeny tiny jokes. Stupidly funny, loved it
-        
-
 
 ### Palm Springs 2020
 - **Rating**: ★★★★☆ 9
@@ -61,8 +72,6 @@ Sounds like bullshit, did Sarah go through an equivalent of a physics undergrad
 Adam Sandler made a sci-fi movie, low how predictable and childish the movie is.
 You get one sentence, Adam using all connectors known. Great that they also informed the 'hunter' guy.
 I feel a strong majority of my discomfort arises from this notion of my to not be sad, an image that is hard to maintain. It's not that the image is not shattered, it has happened quite a few times. It should not feel liberating to break the image, not having the image is a stronger liberation.
-        
-
 
 ### Demolition 2015
 - **Rating**: ★★★★☆ 8
@@ -74,8 +83,6 @@ Weird movie to watch into 1month of meeting someone
 Well we had an weird conversation a day before, for me not being sensitive enough and not being responsive. Felt Jake Gyllenhaal was that person for the first 40ish minutues, felt very weird and wrong to relate with the character for so long, for ignoring the little things that have been happening around. Maybe being nonchalant is a really bad adjective to be labelled, something which I got back in 2018. 
 I should pay a bit more attention, lend more of an ear than a brain. 
 Well I took a small break in between, talked to Shrivastava to ease myself, made Tea as it was a Tuesday. Heck yeah, even Mojo got his offer letter around 6PM. The second half made me realize that maybe I'm not that flawed of a person, the story wasn't that relatable.
-        
-
 
 ### Dance Flick 2009
 - **Rating**: ★★★☆☆ 7
@@ -84,14 +91,11 @@ Well I took a small break in between, talked to Shrivastava to ease myself, made
 - **Brief Review**: 
 fun, captivating totally nonsensical but in a fun way
 Has references to Superbad, Twilight (insane i know) and the oh shit its white guys amazing callback
-        
-
 <hr style="border:2px solid gray">
 
 <div id="WatchList2024"></div>
 
 ## Watch List 2024
-
 
 ### Easy A 2010
 - **Rating**: ★☆☆☆☆ 2
@@ -99,8 +103,6 @@ Has references to Superbad, Twilight (insane i know) and the oh shit its white g
 - **Date** : 30 December 2024
 - **Brief Review**: 
 Starting feels dull, plot lacks any character, felt like a waste of time, had a stereotypical Indian character which I find very off-putting
-        
-
 
 ### John Tucker Must Die 2006
 - **Rating**: ★★★☆☆ 7
@@ -109,8 +111,6 @@ Starting feels dull, plot lacks any character, felt like a waste of time, had a 
 - **Brief Review**: 
 Funny coming of the age movie, but tries to combine a lesson with the fun which ruins it all
 Kate kinda had tooo good of an ending to be true, but we all wished for it right
-        
-
 
 ### Superhero Movie 2008
 - **Rating**: ★★★★☆ 9
@@ -121,8 +121,6 @@ Kate kinda had tooo good of an ending to be true, but we all wished for it right
 Combines the Xmen in a much smoother fashion\
 Titanium blades, they cut through diamonds; I'm not wearing any diamonds\
 Amazing Bonus credit / deleted scenes
-        
-
 
 ### Swades
 - **Rating**: ★★★★☆ 9
@@ -132,7 +130,6 @@ Amazing Bonus credit / deleted scenes
         Great cinematic shots in the end, 
         almost felt like an NRI who just had to return to his homeland to sort stuff out. 
         Amazing watch
-        
 
 ### Pineapple Express 2007
 - **Rating**: ★★★★☆ 9
@@ -141,7 +138,6 @@ Amazing Bonus credit / deleted scenes
 - **Brief Review**: 
         Plot holes, but okay fun to watch
 Typical Seth Rogen, on similar topics, still fun
-
 
 ### Get Hard 2015
 - **Rating**: ★★★☆☆ 7

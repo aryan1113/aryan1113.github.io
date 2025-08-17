@@ -12,7 +12,8 @@ valid_genre = [
     'Documentary', 
     'Anime', 
     'War',
-    'Coming of Age'
+    'Coming of Age',
+    'Thriller'
 ]
 
 def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='./media/rating.md'):
@@ -61,7 +62,7 @@ def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='
 """
     
     # To append movie at the top, use index 30
-    insertion_index = 29
+    insertion_index = 30
 
     # To append movie at the end
     # insertion_index = len(content)
@@ -77,13 +78,13 @@ def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='
 def main():
     # Demonstration of how to use the function
     add_movie_review(
-        title="Easy A 2010",
-        rating= 2,
+        title="Karthik Calling Karthik 2010",
+        rating= 8,
         brief_review="""
-Starting feels dull, plot lacks any character, felt like a waste of time, had a stereotypical Indian character which I find very off-putting
+A strong 8, especially for the crowd I got to see this with. Had seen this in pieces and bits long ago, but could not build a coherent story. Seeing this from Mahajan's theatre was something of it's own, I'll highly recommend doing this if you're in / around BLR atleast once. Coming to the plot, pretty early on it gets a bit predictable but still keeps you hooked, also you get amazing dance breaks : )
         """,
-        genre="Coming of Age",
-        watchDate="30 December 2024"
+        genre="Thriller",
+        watchDate="26 July 2025"
     )
 
 if __name__ == "__main__":
