@@ -1,33 +1,41 @@
-Knowledge base intertwined with personal information, for (potential) stalkers haha
-Have the following sections
+# Knowledge base intertwined with personal information
+*for potential stalkers haha*
 
-1. About
-Information and hyperlinks to other profiles
-Include twitter, medium and github profiles
+## Sections
 
-2. Notes
-To add simple notes, that are already on hackmd and other similar profiles
-Can even add starter guides, to avoid sharing redundent information multiple times through one-on-one interactions
+1. **About**  
+   Information and hyperlinks to other profiles.  
+   Include Twitter, Medium, and GitHub profiles.
 
-3. Where should you go next
-Includes iternaries already completed
+2. **Notes**  
+   migrate simple notes that are already on HackMD and other similar profiles.  
+   starter guides to avoid sharing redundant information multiple times through one-on-one interactions.
 
-4. Travel plans
-Compiled from JEE era
+3. **Where should you go next**  
+   Includes itineraries for places I've already been to.
 
-5. Should you watch this
-Add movie reviews, that are locally stores on device
-Can add a heatmap of sorts to visualize how often I binge watch
+4. **Travel plans**  
+   Compiled from JEE era, scenic train routes. Might not cover them in the near future.
 
-<hr> 
+5. **Should you watch this**  
+   I dont watch a lot of movies, but when I do I do conjure up a review right away.
+   These were stored locally on device till 12/25, and was one of the primary reasons why I wanted to have a knowledge base.
+   Note that some (older) reviews might not have ratings, as I did not collect star-review data right away for those items.  
+   With a heatmap to visualize how often I binge watch.
+
+---
+
 That would be enough for now, will add more stuff if I get inspired by cooler stuff outside.
 
-<hr>
+---
 
 ## Instructions
 
-When updating config : bundle exec jekyll clean
+- When updating config:  
+  `bundle exec jekyll clean`
 
-To run locally use : bundle exec jekyll serve
+- To run locally:  
+  `bundle exec jekyll serve`
 
-Run python scripts using : python addReviews.py
+- Run python scripts:  
+  `python addReviews.py`

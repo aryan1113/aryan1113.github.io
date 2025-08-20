@@ -1,9 +1,9 @@
 <!-- only for technical information about me -->
 I'm Aryan, you could be potentially here from 
-[Twitter]({{ site.twitter_url }}), 
-[GitHub]({{ site.github_url }}), 
-[HackMD (woah)]({{ site.hackmd_url }}) or 
-[Medium (eh)]({{ site.medium_url }}).  
+<a href="{{ site.twitter_url }}" target="_blank" rel="noopener noreferrer">Twitter</a>, 
+<a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer">GitHub</a>, 
+<a href="{{ site.hackmd_url }}" target="_blank" rel="noopener noreferrer">HackMD (woah)</a> or 
+<a href="{{ site.medium_url }}" target="_blank" rel="noopener noreferrer">Medium (eh)</a>.  
 If not, then welcome, hahaha this could get interesting.
 
 
@@ -19,10 +19,10 @@ If not, then welcome, hahaha this could get interesting.
 - Absolutely adore flashy words, that seem over-the-top for daily conversations
 
 <p style="text-align: center;">
-  <a href="mailto:{{ site.email }}">Email</a> /
-  <a href="{{ site.resume }}" target="_blank">Resume</a> /
-  <a href="{{ site.twitter_url }}" target="_blank">Twitter</a> /
-  <a href="{{ site.github_url }}" target="_blank">GitHub</a> /
-  <a href="{{ site.hackmd_url }}" target="_blank">HackMD</a> /
-  <a href="{{ site.medium_url }}" target="_blank">Medium</a>
+  <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer">Email</a> /
+  <a href="{{ site.resume }}" target="_blank" rel="noopener noreferrer">Resume</a> /
+  <a href="{{ site.twitter_url }}" target="_blank" rel="noopener noreferrer">Twitter</a> /
+  <a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer">GitHub</a> /
+  <a href="{{ site.hackmd_url }}" target="_blank" rel="noopener noreferrer">HackMD</a> /
+  <a href="{{ site.medium_url }}" target="_blank" rel="noopener noreferrer">Medium</a>
 </p>

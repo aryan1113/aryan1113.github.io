@@ -100,3 +100,6 @@ section {
   align-items: start;
   margin-bottom: 4rem;
 }
+:target {
+  scroll-margin-top: 10em;
+}
