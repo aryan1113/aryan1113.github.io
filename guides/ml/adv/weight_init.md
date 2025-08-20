@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-07-10 21:19:02 +0530
+last_modified: 2025-08-17 09:51:11 +0000
 layout: ml-guides
 title: Weight Initialization for Neural Networks
 description: special hyperparamter, which sometimes just improves glide to the optima point
