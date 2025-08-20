@@ -9,31 +9,37 @@ permalink: /workex/
 ## Work Experiences
 {% for job in site.data.experiences.work %}
 ### {{ job.company }}, {{ job.location }}
-**Role:** {{ job.role }} \
-**Duration:** {{ job.start_date | date: "%b %Y" }}{% if job.current %} - Present{% elsif job.end_date %} - {{ job.end_date | date: "%b %Y" }}{% endif %}  \
-**Type:** {{ job.type }} \
-**Process:** {{ job.process }}
+
+{% for role in job.roles %}
+**Role:** {{ role.title }}  
+**Duration:** {{ role.start_date | date: "%b %Y" }}{% if role.current %} - Present{% elsif role.end_date %} - {{ role.end_date | date: "%b %Y" }}{% endif %}  
+**Type:** {{ role.type }}  
+**Process:** {{ role.process }}
 
 **What I Learned:**
-{% for learning in job.learnings %}
+{% for learning in role.learnings %}
 - {{ learning }}
 {% endfor %}
 
-{% if job.projects.size > 0 %}
+{% if role.projects.size > 0 %}
 **Projects:**
-{% for project in job.projects %}
+{% for project in role.projects %}
 - {{ project }}
 {% endfor %}
 {% endif %}
 
 ---
 {% endfor %}
+{% endfor %}
+
 
 ## Talks & Events Attended
 
 {% for talk in site.data.experiences.talks %}
 ### {{ talk.event }}
-**Date:** {{ talk.date_from | date: "%d %B %Y" }}  - {{talk.date_to | date: "%d %B %Y"  }}\
+**Date:** {% if talk.date_from == talk.date_to %}  {{ talk.date_from | date: "%d %B %Y" }}
+{% else %}  {{ talk.date_from | date: "%d %B %Y" }} - {{ talk.date_to | date: "%d %B %Y" }}
+{% endif %}  
 **Type:** {{ talk.type }}  
 
 **Key Takeaways:**

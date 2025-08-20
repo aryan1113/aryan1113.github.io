@@ -2,45 +2,68 @@
 work:
   - company: "Carousell"
     location: "Singapore"
-    role: "Data Science Intern"
-    type: "Internship"
-    start_date: "2025-01-06"
-    end_date: "2025-07-07"
-    current: true
-    process: Applied via Glassdoor, had 2 technical rounds focusing on ML/DL basics,
-        matrix based problem solving, and culture-fit
-    learnings:
-      - "Search systems are fascinating and complex"
-      - "Long Tail distributions are more common that it seems haha"
-      - "Problem solutioning is an iterative process, balance between depth and delivery speed"
-    projects:
-      - "Extend an TwoTower architechture for select markets, improving QUSVC latency by 90%"
-      - "(For internal use), flag username searches"
-      - "(For internal use), work on marketplace-health dashboards"
+    roles: 
+    - title: "Data Scientist I"
+      type: "Full Time"
+      start_date: "2025-08-06"
+      end_date: null
+      current: True
+      process: Cool discussions with the team, followed by an assignment. <br>
+          I also did meet with my manager's manager in BLR over coffee, insightful
+      learnings:
+        - "Well I'll update this section every 6months or so"
+      projects:
+        - "Same as learnings, will update this section every 6months"
+
+    - title: "Data Science Intern"
+      type: "Internship"
+      start_date: "2025-01-06"
+      end_date: "2025-07-07"
+      current: False
+      process: Applied via Glassdoor, had 2 technical rounds focusing on ML/DL basics, <br>
+          matrix based problem solving, and culture-fit
+      learnings:
+        - "Search systems are fascinating and complex"
+        - "Long Tail distributions are more common that it seems haha"
+        - "Problem solutioning is an iterative process, balance between depth and delivery speed"
+      projects:
+        - "Extend an TwoTower architechture for select markets, improving QUSVC latency by 90%"
+        - "(For internal use), flag username searches"
+        - "(For internal use), work on marketplace-health dashboards"
     
   - company: "Adizen"
     location: "Bangalore"
-    role: "Product Management Intern"
-    type: "Internship"
-    start_date: "2024-05-06"
-    end_date: "2024-07-15"
-    current: False
-    process: "Strong referral, 2 technical interviews based on guesstimates and past projects"
-    learnings:
-      - "Clients vision for the end result is paramount"
-      - "Work can be very iterative"
-      - "Tres LeChes is an amazing dessert"
-    projects:
-      - "ERP portal for a construction focused GCC"
+    roles: 
+    - title : "Product Management Intern"
+      type: "Internship"
+      start_date: "2024-05-06"
+      end_date: "2024-07-15"
+      current: False
+      process: "Strong referral, 2 technical interviews based on guesstimates and past projects"
+      learnings:
+        - "Clients vision for the end result is paramount"
+        - "Work can be very iterative"
+        - "Tres LeChes is an amazing dessert"
+      projects:
+        - "ERP portal for a construction focused GCC"
 
 talks:
+
+  - event: "InMobi Encore 2025"
+    date_from: "2025-09-12"
+    date_to: "2025-09-12"
+    type: "Conference"
+    takeaways:
+      - "Waiting on my application to be accepted goddamn"
+      - "Would be super sick if I get to attend this in-person"
+
   - event: "Microsoft Research India Academic Summit 2025"
     date_from: "2025-06-24"
     date_to: "2025-06-25"
     type: "Conference"
-
     takeaways:
       - "Not sure, manifesting my application would be accepted lol"
+      - "Update, my application wasn't accepted, turns out senior researchers were the focus"
 
   # - event: "Local ML Meetup"
   #   date: "2024-04-20"
