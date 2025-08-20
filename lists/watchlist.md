@@ -27,7 +27,10 @@ movies
 <h2>
 2024 watchlist
 </h2>
-1. Dance Flick 2009
+1. <a href="/media/rating#dance-flick-2009" 
+    target="_blank" rel="noreferrer">
+    ~~Dance Flick 2009~~
+    </a>
 
 <h2>
 2021 and 2022 Watchlist
@@ -43,7 +46,10 @@ movies
 8. Rascalzz
 9. The Blues Brothers (1980)
 10. Regression (2015)
-11. Easy A
+11. <a href="/media/rating#easy-a-2010" 
+    target="_blank" rel="noreferrer">
+    ~~Easy A~~
+    </a>
 12. 8X10
 13. London Dreams
 14. Office Space 1999
@@ -58,7 +64,10 @@ movies
 23. La La Land
 24. Whiplash (2014)
 25. Delli 6
-26. Swades
+26. <a href="/media/rating#swades" 
+    target="_blank" rel="noreferrer">
+    ~~Swades~~
+    </a>
 27. The Lunchbox
 28. Bhavesh joshi super hero hindi
 29. Jackass 3D
@@ -66,14 +75,20 @@ movies
 31. Pulp fiction
 32. Wakaliwood
 33. LOOTERA
-34. Demolition (2015)
+34. <a href="/media/rating#demolition-2015" 
+    target="_blank" rel="noreferrer">
+    ~~Demolition 2015~~
+    </a>
 35. Dil chahta hai
 36. Jhootha Hi Sahi 2010
 37. China Gate
 38. About Time (2013 film)
 39. Lakshya
 40. Kahani (2012)
-41. Kamal Kishore Khosla
+41. <a href="/media/rating#khosla-ka-ghosla-2006" 
+    target="_blank" rel="noreferrer">
+    ~~Khosla Ka Ghosla~~
+    </a>
 42. Dhrishyam - Ajay Devgn
 43. Samurai Cop
 44. The Platform
@@ -84,7 +99,10 @@ movies
 49. Mr Nobody
 50. Contagion
 51. Gone Girl
-52. Karthik calling karthik
+52. <a href="/media/rating#karthik-calling-karthik-2010"
+    target="_blank" rel="noreferrer">
+    ~~Karthik calling karthik~~
+    </a>
 53. Oldboy korean
 
 <div id="web-series"></div>
@@ -108,7 +126,7 @@ Web-Series
 12. Parks and Recreation
 13. Beyond evil (korean)
 14. Daredevil
-15. Lost in spaceS
+15. Lost in space
 16. Apharan
 
 <div id="documentaries"></div>

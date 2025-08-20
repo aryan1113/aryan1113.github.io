@@ -81,15 +81,20 @@ def create_yearly_monthly_heatmap(dates, years=None):
     
     
     # plt.title('Movie Viewing Heatmap', fontsize=15)
-    plt.xlabel('Month', fontsize=12)
-    plt.ylabel('Year', fontsize=12)
+    plt.xlabel('Month', fontsize=16)
+    plt.ylabel('Year', fontsize=16)
     
+    cbar = ax.collections[0].colorbar
+    cbar.ax.tick_params(labelsize=16)
+    cbar.set_label('Number of Movies Watched', fontsize=16, labelpad=20)
+
     # Replace month numbers with month names
     month_names = [calendar.month_abbr[i] for i in range(1, 13)]
-    plt.xticks(ticks=np.arange(12) + 0.5, labels=month_names, rotation=45)
+    plt.xticks(ticks=np.arange(12) + 0.5, labels=month_names, rotation=45, fontsize=14)
+    plt.yticks(fontsize=14)
     
     # Save the heatmap
-    save_filepath = "scripts/movieCountbyMonth.png"
+    save_filepath = "assets/movieCountbyMonth.png"
     logging.info(f"Attempting to save heatmap at location: {save_filepath}")
     plt.tight_layout()
     plt.savefig(save_filepath)
