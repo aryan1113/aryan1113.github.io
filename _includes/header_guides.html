@@ -10,17 +10,29 @@
         <!-- Navigation menu -->
         <ul class="nav-links">
 
-        <!-- Home page ka href -->
+        <!-- Home page ka href, already handled by the space button,
+         clicking upon space redirects you to the home page -->
+
+        <!-- Guides home page, this page -->
           <li>
-            <a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>
-                Home (root)
+            <a 
+            href="{{ site.baseurl }}/guides/" {% if page.url == '/guides/' %}class="active"{% endif %}>
+                Guides
             </a>
         </li>
-        
+
+        <!-- Computer Science Topics -->
+          <li>
+            <a 
+            href="{{ site.baseurl }}/guides/cs/" {% if page.url == '/guides/cs/' %}class="active"{% endif %}>
+                CS
+            </a>
+        </li>
+
         <!-- Self domain notes -->
           <li>
             <a 
-            href="{{ site.baseurl }}/guides/ml/" {% if page.url contains 'ml' %}class="active"{% endif %}>
+            href="{{ site.baseurl }}/guides/ml/" {% if page.url == '/guides/ml/' %}class="active"{% endif %}>
                 Everything ML
             </a>
         </li>
@@ -28,7 +40,7 @@
         <!-- Cool stuff written by others -->
           <li>
             <a 
-            href="{{ site.baseurl }}/guides/byothers" {% if page.url contains 'byothers' %}class="active"{% endif %}>
+            href="{{ site.baseurl }}/guides/byothers" {% if page.url == '/guides/byothers/' %}class="active"{% endif %}>
                 by Others
             </a>
         </li>
@@ -36,7 +48,7 @@
         <!-- Academic notes, how to survive through college -->
         <li>
             <a 
-            href="{{ site.baseurl }}/guides/acad" {% if page.url contains 'acad' %}class="active"{% endif %}>
+            href="{{ site.baseurl }}/guides/acad" {% if page.url == '/guides/acad/' %}class="active"{% endif %}>
                 acads ?
             </a>
         </li>    
