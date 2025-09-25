@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-17 09:51:11 +0000
+last_modified: 2025-08-20 11:38:14 +0000
 layout: default
 title: Home
 description: should tell you a lot about Aryan Pandey from IIIT Jabalpur

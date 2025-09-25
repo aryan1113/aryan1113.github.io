@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-17 09:51:11 +0000
+last_modified: 2025-08-20 11:38:14 +0000
 layout: ml-guides
 title: papers I've been reading
 description: Well I tried to start early, by incorporating a paper we read at BitByte, but honestly it was too much for an undergrad Aryan haha.

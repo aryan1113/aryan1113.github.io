@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-17 09:51:11 +0000
+last_modified: 2025-08-20 11:38:14 +0000
 layout: ml-guides
 title: ml-notes
 description: everything Machine Learning, compilted by Aryan Pandey from IIIT Jabalpur

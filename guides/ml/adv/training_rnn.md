@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-17 09:51:11 +0000
+last_modified: 2025-09-25 23:24:06 +0530
 layout: ml-guides
 title: Difficulty in Training RNNs
 description: why do we not use RRNs in common practice 

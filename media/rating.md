@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-20 17:06:35 +0530
+last_modified: 2025-08-20 11:38:14 +0000
 layout: default
 published : true
 title: ratings for everything I've seen

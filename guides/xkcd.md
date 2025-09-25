@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-17 09:51:11 +0000
+last_modified: 2025-08-20 11:38:14 +0000
 layout: guides
 title: xkcd Art
 description: xkcd art that I Aryan Pandey from IIIT Jabalpur, really like

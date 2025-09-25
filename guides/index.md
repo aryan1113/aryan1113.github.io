@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-17 09:51:11 +0000
+last_modified: 2025-09-25 23:24:06 +0530
 layout: guides
 title: all-notes
 description: all technical notes written by Aryan Pandey from IIIT Jabalpur

@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-09-25 23:17:02 +0530
 layout: ml-guides
 title: Norms you should know of
 description: normalization to prevent messing up gradients

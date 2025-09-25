@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-09-25 23:17:02 +0530
 layout: ml-guides
 title: attention self&cross
 description: At one point in life, we all need to understand the art of attention

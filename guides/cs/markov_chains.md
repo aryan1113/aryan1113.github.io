@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-24 18:20:00 +0530
+last_modified: 2025-09-25 23:05:08 +0530
 layout: guides
 title: Markov Chains explained
 description: First heard abt these in Speech Processing course

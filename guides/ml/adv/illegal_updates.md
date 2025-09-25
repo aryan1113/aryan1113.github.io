@@ -1,4 +1,5 @@
 ---
+last_modified: 2025-09-25 23:17:02 +0530
 layout: ml-guides
 title: Can some updates be illegal with sigmoid function ?
 description:  
