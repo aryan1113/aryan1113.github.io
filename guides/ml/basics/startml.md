@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-20 11:38:14 +0000
+last_modified: 2025-09-25 17:55:29 +0000
 layout: ml-guides
 title: Getting Started With ML
 description: for beginners just starting out with machine learning

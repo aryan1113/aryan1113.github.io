@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 23:23:43 +0530
+last_modified: 2025-09-25 17:55:29 +0000
 layout: guides
 title: Finance
 description: If I happen to be pursuing a masters degree someday 

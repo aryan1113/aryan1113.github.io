@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 23:05:08 +0530
+last_modified: 2025-09-25 17:55:29 +0000
 layout: guides
 title: Computer Networking
 description: well I interviewed for cisco recently 
