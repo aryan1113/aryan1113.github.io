@@ -5,15 +5,41 @@ title: Faily advanced ML
 description: Advanced topics from Machine Learning by Aryan Pandey from IIIT Jabalpur
 ---
 
-<h2> A bit advanced topics from DS/ML/DL </h2>
+## A bit advanced topics from DS/ML/DL
 To separate in-depth notes from the fairly simple ones.
 
-<h3> In no particular order </h3>
+* Table of Contents
+{:toc}
+
+<hr style="border:1px solid gray">
+
+### In no particular order 
+
+#### Work in progress 
 
 - <a href="./dead_neurons" 
     target="_blank" 
     rel="noopener noreferrer">
     Dead neurons in neural networks</a>
+- <a href="./norm" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Batch Norm VS Layer Norm</a>
+- <a href="./illegal_updates" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Are some directions illegal for the sigmoid activation function ?</a>
+- <a href="./attention_types" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Understanding cross and self attention</a>
+- <a href="./ics" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Internal Covariate Shift</a>, yes the reason why Batch Norm is a thing.
+
+#### Completed, please have a look monsieur 
+
 - <a href="./pos_encoding" 
     target="_blank" 
     rel="noopener noreferrer">
@@ -26,10 +52,6 @@ To separate in-depth notes from the fairly simple ones.
     target="_blank" 
     rel="noopener noreferrer">
     Vision Transformers</a>
-- <a href="./ics" 
-    target="_blank" 
-    rel="noopener noreferrer">
-    Internal Covariate Shift</a>, yes the reason why Batch Norm is a thing.
 - <a href="../paper-summary/long_tail_proco" 
     target="_blank" 
     rel="noopener noreferrer">
@@ -49,7 +71,11 @@ To separate in-depth notes from the fairly simple ones.
     rel="noopener noreferrer">
     What even are RAGs</a>, Saw Sony Research asking for RAGs for undergrad research positions, hence this.
 
-<h3> What Next ? </h3>
+<hr style="border:1px solid gray">
+Ƹ̵̡Ӝ̵̨̄Ʒ Ƹ̵̡Ӝ̵̨̄Ʒ Ƹ̵̡Ӝ̵̨̄Ʒ <br>
+butterfly as a line break
+
+### What Next ? 
 I should also mention 
 <a href="../../index#what-next-would-i-explore" 
     target="_blank" 
