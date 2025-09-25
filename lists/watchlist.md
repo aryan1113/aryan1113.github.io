@@ -24,6 +24,13 @@ movies
 1. Karwaan 2018, by Vikash
 2. Johnny Gaddaar 2007, by Vikash
 3. A Madea Homecoming 2022
+4. End of Watch, 2012
+5. Naked Gun, 2025
+6. Iron Sky: The Coming Race, 2019
+7. Zack and Miri Make, 2008
+8. The Namesake, 2006
+9. Patiala House, 2011
+
 <h2>
 2024 watchlist
 </h2>
