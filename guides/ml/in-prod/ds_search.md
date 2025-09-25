@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-07-10 21:19:02 +0530
+last_modified: 2025-08-17 09:51:11 +0000
 layout: ml-guides
 title: Positional Encoding for Transformers
 description: well all transform blogs talk about the same 3 matrices, so here's positional encoding, something which is interesting to discuss as well

@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-17 13:40:14 +0530
+last_modified: 2025-08-17 09:51:11 +0000
 layout: default
 published : true
 title: need a study buddy for this
