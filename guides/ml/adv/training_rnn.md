@@ -6,6 +6,8 @@ description: why do we not use RRNs in common practice
 usemathjax: true
 --- 
 
+# Difficulty of training RNNs
+
 A concise summary of the paper titled “On the difficulty of training Recurrent Neural Networks” by Bengio…
 
 * Table of Contents
