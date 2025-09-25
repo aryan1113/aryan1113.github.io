@@ -9,7 +9,7 @@ description: all CS focused technical notes written by Aryan Pandey from IIIT Ja
 
 Well really cool CS topics, so this should serve as an easy-to-maintain Knowledge Base.
 
-Reading list is <a href="../guides/adv_cs_explore" target="_blank">here, for computer science fundamentals</a>
+Reading list is <a href="../adv_cs_explore" target="_blank">here, for computer science fundamentals</a>
 <h2> Head over to </h2>
 <h3> Related to Machine Learning </h3>
 
