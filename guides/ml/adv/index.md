@@ -70,6 +70,10 @@ To separate in-depth notes from the fairly simple ones.
     target="_blank" 
     rel="noopener noreferrer">
     What even are RAGs</a>, Saw Sony Research asking for RAGs for undergrad research positions, hence this.
+- <a href="./xc_msr"
+    target="_blank"
+    rel="noopener noreferrer">
+    Extreme Classification</a>, which is a topic born out of research at Microsoft.
 
 <hr style="border:1px solid gray">
 Ƹ̵̡Ӝ̵̨̄Ʒ Ƹ̵̡Ӝ̵̨̄Ʒ Ƹ̵̡Ӝ̵̨̄Ʒ <br>

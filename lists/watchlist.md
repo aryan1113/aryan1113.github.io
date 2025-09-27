@@ -7,42 +7,57 @@ permalink: /lists/watchlist/
 description: movies I have watched or plan to watch Aryan Pandey from IIIT Jabalpur
 --- 
 
-<h3> Head over to </h3>
-- [Movies I plan to Watch](#movies)
-- [Web series I plan, but rarely find time to](#web-series)
-- [Documentaries](#documentaries)
+<hr style="border:1px solid gray">
+* Table of Contents
+{:toc}
+<hr style="border:1px solid gray">
 
-<div id="movies"></div>
+# Movies, of all kinds
 
-<h1>
-movies 
-</h1>
+## 2025 watchlist
 
-<h2>
-2025 watchlist
-</h2>
-1. Karwaan 2018, by Vikash
-2. Johnny Gaddaar 2007, by Vikash
-3. A Madea Homecoming 2022
-4. End of Watch, 2012
-5. Naked Gun, 2025
-6. Iron Sky: The Coming Race, 2019
-7. Zack and Miri Make, 2008
-8. The Namesake, 2006
-9. Patiala House, 2011
+### Self lists, compiled from my internet footprint
 
-<h2>
-2024 watchlist
-</h2>
+<ol>
+  <li>A Madea Homecoming 2022</li>
+  <li>A Beautiful Mind 2001</li>
+  <li>End of Watch, 2012</li>
+  <li>Naked Gun, 2025</li>
+  <li>Iron Sky: The Coming Race, 2019</li>
+  <li>Zack and Miri Make, 2008</li>
+  <li>The Namesake, 2006</li>
+  <li>Patiala House, 2011</li>
+</ol>
+
+### By Vikash
+<ol start="9">
+  <li>Karwaan 2018</li>
+  <li>Johnny Gaddaar 2007</li>
+</ol>
+
+### Shared by Harsh
+<ol start="11">
+  <li>Kung Fu Panda Marathi</li>
+  <li>Kaalakaandi</li>
+  <li>Pabar, Odia</li>
+  <li>Mard ko dard nahi hota</li>
+  <li>Premalu south</li>
+  <li>Sunday, Rohit Shetty</li>
+  <li>Mumbai Express</li>
+  <li>Phas Gaye Re Obama</li>
+  <li>Bhooter Bhabishayt</li>
+  <li>Jigarthanda</li>
+  <li>99, Raj & DK</li>
+  <li>Filmistaan</li>
+</ol>
+
+## 2024 watchlist
 1. <a href="/media/rating#dance-flick-2009" 
     target="_blank" rel="noreferrer">
     ~~Dance Flick 2009~~
     </a>
 
-<h2>
-2021 and 2022 Watchlist
-</h2>
-
+## 2021 and 2022 Watchlist
 1. Clueless Paul rudd (1995)
 2. Bruce Almighty 2003 (Jim Carrey)
 3. Anek (2022)
@@ -112,13 +127,9 @@ movies
     </a>
 53. Oldboy korean
 
-<div id="web-series"></div>
 <hr style="border:1px solid gray">
 
-<h1> 
-Web-Series 
-</h1>
-
+# Web-Series 
 1. Sense8
 2. Maniac Emma Stone
 3. Alice In Borderland 2020
@@ -136,12 +147,6 @@ Web-Series
 15. Lost in space
 16. Apharan
 
-<div id="documentaries"></div>
-
-<hr style="border:1px solid gray">
-<h1>
-Documentaries 
-</h1>
-
+# Documentaries 
 1. House of secrets
 2. The Silk Road, recommended by Vikash

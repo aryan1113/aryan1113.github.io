@@ -40,3 +40,15 @@ That would be enough for now, will add more stuff if I get inspired by cooler st
 
 - Run python scripts:  
   `python addReviews.py`
+
+## Setup repo
+
+For mac-os, install the venv manager for ruby using 
+`brew install rbenv ruby-build`
+
+Add `eval "$(rbenv init - zsh)"` to your zshrc profile by running `nano ~/.zshrc` in your terminal.
+
+Hit rbenv install 3.3.0 (or basically any version above 3.x as used by github pages)
+Set this version for local use using `rbenv local 3.3.0` then verify by running ruby -v
+
+`bundle install` for the very first time
