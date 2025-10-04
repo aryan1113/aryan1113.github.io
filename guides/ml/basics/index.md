@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 17:55:29 +0000
+last_modified: 2025-07-10 17:55:29 +0000
 layout: ml-guides
 title: machine learning basics
 description: ML refreshers, for interview prep or just glossing around

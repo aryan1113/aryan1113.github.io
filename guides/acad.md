@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 17:55:29 +0000
+last_modified: 2025-07-10 17:55:29 +0000
 layout: guides
 title: acads @IIIT
 description: academic tales by Aryan Pandey from IIIT Jabalpur

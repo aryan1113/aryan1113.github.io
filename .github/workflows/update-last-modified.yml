@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   update-dates:
+    if: false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -22,7 +23,8 @@ jobs:
           # Loop over only the markdown files that were changed in the last commit
           for file in $(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- '*.md' '*.markdown'); do
             # get last commit date for the file
-            last_date=$(git log -1 --format="%aI" -- "$file") # Use ISO 8601 format
+            last_date=$(git log -1 --invert-grep --grep="chore(dates)" --format="%aI" -- "$file")
+
 
             # check if file has front matter
             if grep -q '^---' "$file"; then

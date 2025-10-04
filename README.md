@@ -1,5 +1,5 @@
 # Knowledge base intertwined with personal information
-last_modified: 2025-09-25 17:55:29 +0000
+last_modified: 2025-08-20 17:55:29 +0000
 *for potential stalkers haha*
 
 ## Sections

@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 17:55:29 +0000
+last_modified: 2025-07-10 17:55:29 +0000
 layout: guides
 title: amazing reads
 description: notes, blogs and writings compiled over the years, primarily shared via discord by Aryan Pandey from IIIT Jabalpur

@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 17:55:29 +0000
+last_modified: 2025-07-11 17:55:29 +0000
 layout: default
 title: Every List curated
 description: all lists ever created and maintain Aryan Pandey from IIIT Jabalpur should be right here
