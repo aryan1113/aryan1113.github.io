@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 17:55:29 +0000
+last_modified: 2025-10-04T19:40:10+05:30
 layout: ml-guides
 title: Data Science in search
 description: basically what I work on, all of which seemed really cool and obscure when I started working as intern.

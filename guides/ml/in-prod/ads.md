@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-10-04 16:25:00 +0000
+last_modified: 2025-10-04T19:40:10+05:30
 layout: ml-guides
 title: Ads ranking
 description: August was a pretty wild month, first time I heard about Demand Side Platforms / Ad-Exchanges and boom, ranking for ads as well. Sidenote, I also went to an inmobi conference in August.
