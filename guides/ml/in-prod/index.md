@@ -12,9 +12,13 @@ Which share how machine learning is used to power functionalities across their t
 - <a href="./ds_search" 
     target="_blank" 
     rel="noopener noreferrer">
-    Data Science Applications for Search</a>
+    Data Science Applications for Search</a> Basically what I work on, compiled towards end of my internship at Carousell, so could be a bit naive.
 - <a href="./netflix" 
     target="_blank" 
     rel="noopener noreferrer">
     Summary of 3 Netflix Tech Blogs</a>
+- <a href="./ads"
+    target="_blank"
+    rel="noopener noreferrer">
+    Ads Ranking at Meta</a> Talks about Ads in general, predicted CTR and Conversion rates, ad exchanges and the second highest price. Quite interesting.
 

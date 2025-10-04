@@ -55,6 +55,10 @@ Breaking down jargon filled tech blogs into simple and short notes
     target="_blank" 
     rel="noopener noreferrer">
     Summary of 3 Netflix Tech Blogs</a>
+- <a href="./in-prod/ads"
+    target="blank"
+    rel="noopener noreferrer">
+    Ads ranking</a> what inMobi does for a billion dollars
 <hr style="border:1px solid gray">
 龴ↀ◡ↀ龴 <br>
 cat as a line break
