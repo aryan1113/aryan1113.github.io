@@ -16,6 +16,9 @@ description: movies I have watched or plan to watch Aryan Pandey from IIIT Jabal
 
 ## 2025 watchlist
 
+<div class="continuous-list" markdown="1">
+
+
 ### Self lists, compiled from my internet footprint
 
 <ol>
@@ -27,16 +30,17 @@ description: movies I have watched or plan to watch Aryan Pandey from IIIT Jabal
   <li>Zack and Miri Make, 2008</li>
   <li>The Namesake, 2006</li>
   <li>Patiala House, 2011</li>
+  <li>Cash, 2007</li>
 </ol>
 
 ### By Vikash
-<ol start="9">
+<ol>
   <li>Karwaan 2018</li>
   <li>Johnny Gaddaar 2007</li>
 </ol>
 
 ### Shared by Harsh
-<ol start="11">
+<ol>
   <li>Kung Fu Panda Marathi</li>
   <li>Kaalakaandi</li>
   <li>Pabar, Odia</li>
@@ -51,6 +55,8 @@ description: movies I have watched or plan to watch Aryan Pandey from IIIT Jabal
   <li>Filmistaan</li>
 </ol>
 
+</div>
+
 ## 2024 watchlist
 1. <a href="/media/rating#dance-flick-2009" 
     target="_blank" rel="noreferrer">
@@ -59,94 +65,94 @@ description: movies I have watched or plan to watch Aryan Pandey from IIIT Jabal
 
 ## 2021 and 2022 Watchlist
 1. Clueless Paul rudd (1995)
-2. Bruce Almighty 2003 (Jim Carrey)
-3. Anek (2022)
-4. Her (2013)
-5. Cast Away (2000)
-6. Craig robinson comedy
-7. Nope (horror sci-fi)
-8. Rascalzz
-9. The Blues Brothers (1980)
-10. Regression (2015)
-11. <a href="/media/rating#easy-a-2010" 
+1. Bruce Almighty 2003 (Jim Carrey)
+1. Anek (2022)
+1. Her (2013)
+1. Cast Away (2000)
+1. Craig robinson comedy
+1. Nope (horror sci-fi)
+1. Rascalzz
+1. The Blues Brothers (1980)
+1. Regression (2015)
+1. <a href="/media/rating#easy-a-2010" 
     target="_blank" rel="noreferrer">
     ~~Easy A~~
     </a>
-12. 8X10
-13. London Dreams
-14. Office Space 1999
-15. Oceans 11
-16. Jaan e maan
-17. Let's fall in love again
-18. Bad Boys (1995)
-19. Bad Boys II (2003)
-20. Little miss sunshine
-21. Runway 34 (Amitabh)
-22. Vanilla Sky
-23. La La Land
-24. Whiplash (2014)
-25. Delli 6
-26. <a href="/media/rating#swades" 
+1. 8X10
+1. London Dreams
+1. Office Space 1999
+1. Oceans 11
+1. Jaan e maan
+1. Let's fall in love again
+1. Bad Boys (1995)
+1. Bad Boys II (2003)
+1. Little miss sunshine
+1. Runway 34 (Amitabh)
+1. Vanilla Sky
+1. La La Land
+1. Whiplash (2014)
+1. Delli 6
+1. <a href="/media/rating#swades" 
     target="_blank" rel="noreferrer">
     ~~Swades~~
     </a>
-27. The Lunchbox
-28. Bhavesh joshi super hero hindi
-29. Jackass 3D
-30. Barfi
-31. Pulp fiction
-32. Wakaliwood
-33. LOOTERA
-34. <a href="/media/rating#demolition-2015" 
+1. The Lunchbox
+1. Bhavesh joshi super hero hindi
+1. Jackass 3D
+1. Barfi
+1. Pulp fiction
+1. Wakaliwood
+1. LOOTERA
+1. <a href="/media/rating#demolition-2015" 
     target="_blank" rel="noreferrer">
     ~~Demolition 2015~~
     </a>
-35. Dil chahta hai
-36. Jhootha Hi Sahi 2010
-37. China Gate
-38. About Time (2013 film)
-39. Lakshya
-40. Kahani (2012)
-41. <a href="/media/rating#khosla-ka-ghosla-2006" 
+1. Dil chahta hai
+1. Jhootha Hi Sahi 2010
+1. China Gate
+1. About Time (2013 film)
+1. Lakshya
+1. Kahani (2012)
+1. <a href="/media/rating#khosla-ka-ghosla-2006" 
     target="_blank" rel="noreferrer">
     ~~Khosla Ka Ghosla~~
     </a>
-42. Dhrishyam - Ajay Devgn
-43. Samurai Cop
-44. The Platform
-45. Predestination
-46. Shutter island
-47. Your name ( Kimi no na wa )
-48. Dum maaro dum (abhishek bachan)
-49. Mr Nobody
-50. Contagion
-51. Gone Girl
-52. <a href="/media/rating#karthik-calling-karthik-2010"
+1. Dhrishyam - Ajay Devgn
+1. Samurai Cop
+1. The Platform
+1. Predestination
+1. Shutter island
+1. Your name ( Kimi no na wa )
+1. Dum maaro dum (abhishek bachan)
+1. Mr Nobody
+1. Contagion
+1. Gone Girl
+1. <a href="/media/rating#karthik-calling-karthik-2010"
     target="_blank" rel="noreferrer">
     ~~Karthik calling karthik~~
     </a>
-53. Oldboy korean
+1. Oldboy korean
 
 <hr style="border:1px solid gray">
 
 # Web-Series 
 1. Sense8
-2. Maniac Emma Stone
-3. Alice In Borderland 2020
-4. Itaewon class (korean)
-5. Law School (netflix korea)
-6. Bad boy billionares
-7. Tabbar (sonyliv)
-8. Silicon valley
-9. Dial 100
-10. Everybody Hates Chris
-11. Squid game
-12. Parks and Recreation
-13. Beyond evil (korean)
-14. Daredevil
-15. Lost in space
-16. Apharan
+1. Maniac Emma Stone
+1. Alice In Borderland 2020
+1. Itaewon class (korean)
+1. Law School (netflix korea)
+1. Bad boy billionares
+1. Tabbar (sonyliv)
+1. Silicon valley
+1. Dial 100
+1. Everybody Hates Chris
+1. Squid game
+1. Parks and Recreation
+1. Beyond evil (korean)
+1. Daredevil
+1. Lost in space
+1. Apharan
 
 # Documentaries 
 1. House of secrets
-2. The Silk Road, recommended by Vikash
+1. The Silk Road, recommended by Vikash
