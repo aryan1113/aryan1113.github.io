@@ -196,6 +196,20 @@ Let's assume a query returns 5 documents with the following relevance scores in 
 
 ---
 
+<div class="note" markdown="block">
+
+#### Caveat of NDCG
+
+NDCG is quite intuitive to use as a measure for search relevance, as it puts more emphasis on the top few results (due to the log factor discounting), but this presents us with a challenge. [reference](https://www.microsoft.com/en-us/research/blog/ranknet-a-ranking-retrospective/)
+
+Optimizers used to train neural networks work by tweaking weights to arrive at an optimum point by moving in the (negative of) direction of the gradient, which is defined for continuous error surfaces.
+
+NDCG being discrete, only changes when at least two documents change position in the ranked list, thereby affecting the Discounted Gain. Small changes in the model weights might result in no change to the NDCG, and since SGD works by exploring small changes in scores, it's hard to optimize.
+
+</div>
+
+---
+
 ## Indexing
 Pretty simple<br>
 For each word in our corpus, store the docIDs a particular term shows up in with the term-frequency in the doc.<br>
