@@ -9,7 +9,7 @@ work:
       end_date: null
       current: True
       process: Cool discussions with the team, followed by an assignment. <br>
-          I also did meet with my manager's manager in BLR over coffee, insightful
+          I also did meet with my manager's manager (skip manager) in BLR over coffee, insightful
       learnings:
         - "Well I'll update this section every 6months or so"
       projects:
@@ -54,16 +54,12 @@ talks:
     date_to: "2025-09-12"
     type: "Conference"
     takeaways:
-      - "Waiting on my application to be accepted goddamn"
-      - "Would be super sick if I get to attend this in-person"
-
-  - event: "Microsoft Research India Academic Summit 2025"
-    date_from: "2025-06-24"
-    date_to: "2025-06-25"
-    type: "Conference"
-    takeaways:
-      - "Not sure, manifesting my application would be accepted lol"
-      - "Update, my application wasn't accepted, turns out senior researchers were the focus"
+      - "Everyone uses TwoTowers, especially in search and reco space"
+      - |
+        I won a bluetooth speaker for winning a Kahoot Quiz <br>
+        which was too big to fit in my luggage, gifted to friends as a housewarming gift. <br>
+        pretty warm journey taking this in a BMTC sarige bus to Indiranagar
+      - "Going to a conference alone can be super overwhelming, especially when 50% of the crowd are employees"
 
   # - event: "Local ML Meetup"
   #   date: "2024-04-20"

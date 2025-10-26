@@ -102,6 +102,10 @@ These are split into two main types:
 
 <hr style="border:1px solid gray">
 
+> End of video contents, below is generic information about ad systems focusing on auctioning of slots. 
+
+<hr style="border:1px solid gray">
+
 # Auctions and Bidding
 
 When a user opens their feed there isn't just one ad waiting; there's an auction in a **ad exchange**.

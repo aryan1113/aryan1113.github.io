@@ -2,7 +2,7 @@
 last_modified: 2025-10-04 17:55:29 +0000
 layout: ml-guides
 title: Extreme Classification at Microsoft
-description: A bigger question: can I ever get into MSR tho
+description: A bigger question, can I ever get into MSR tho
 usemathjax: true
 ---
 

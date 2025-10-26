@@ -8,10 +8,10 @@ description: Reading catalogue for Aryan Pandey from IIIT Jabalpur
 ---
 
 <h3> Head over to </h3>
-- [Written by me](#general)
+- [General books](#general)
 - [Others](#political)
 - [Business focused](#business)
-- [Academics at IIIT Jabalpur](#ambani)
+- [Richie Rich in the Indian context](#ambani)
 
 <div id="general"></div>
 <hr style="border:1px solid gray">
@@ -37,6 +37,8 @@ General compiled List
 13. The Hard thing about hard things
 14. Subrahmanyan Chandrasekhar;
 15. Forks in the road C Rangarajan
+16. Madam Sir: The Story of Bihar's First Lady IPS Officer
+
 
 <div id="political"></div>
 <hr style="border:1px solid gray">
@@ -52,6 +54,7 @@ Well, reading about perspectives is fun
 3. Arvind Gupta books (IAS)
 4. Piyush Goyal  (whenever releases)
 5. Suresh Prabhu (whenever releases)
+6. A Fly on the RBI Wall
 
 <div id="business"></div>
 <hr style="border:1px solid gray">
