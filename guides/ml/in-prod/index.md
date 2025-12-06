@@ -21,4 +21,7 @@ Which share how machine learning is used to power functionalities across their t
     target="_blank"
     rel="noopener noreferrer">
     Ads Ranking at Meta</a> Talks about Ads in general, predicted CTR and Conversion rates, ad exchanges and the second highest price. Quite interesting.
-
+- <a href="./zhihu/query_understanding"
+    target="_blank"
+    rel="noopener noreferrer">
+    Query Understanding</a> Talks about Query Understanding in detail, compiled from multiple Zhihu blogs, which is like the Chinese version of Qoura.
