@@ -9,7 +9,10 @@ description: all CS focused technical notes written by Aryan Pandey from IIIT Ja
 
 Well really cool CS topics, so this should serve as an easy-to-maintain Knowledge Base.
 
-Reading list is <a href="../adv_cs_explore" target="_blank">here, for computer science fundamentals</a>
+Reading list is <a href="../adv_cs_explore" target="_blank">here, for computer science fundamentals</a>. <br>
+
+From which, I've managed to read about Game Theory. My notes are <a href="./game_theory" target="_blank"> as follows </a>
+
 <h2> Head over to </h2>
 <h3> Related to Machine Learning </h3>
 

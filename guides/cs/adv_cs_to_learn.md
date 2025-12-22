@@ -42,6 +42,8 @@ and
 </a>
 the course was super fun and involved thinking around the box. 
 
+Managed to read about this around Diwali 2025, <a href="./game_theory" target="_blank"> my notes can be found here</a>
+
 ## Graph Theory
 Could list down the following topics, which I could list down in 2023 but honestly never got the drive to pummel through
 
