@@ -33,6 +33,20 @@ All of these were recorded right after I saw the film, with older ones being ass
 
 ## Watch List 2025
 
+### Dhurandhar 2025
+- **Rating**: ★★★★☆ 9
+- **Genre**: Action
+- **Date** : 25 December 2025
+- **Brief Review**: 
+Happy Christmas folks, saw this in the theaters as well, pretty daunting task. Loved the attention to detail, the sounds were crisp and immersive, from the water gushing through the dam + autos blaring in the bazaar, even the calmer moments in the film felt perfect. Ignoring the political aspect of this film seems impossible throughout. Some songs do seem excessive, but overall great soundtrack, did sound a lot like Hanumankind and Doja Cat. Few plot holes, where everyone forgets how injured the characters are in a fight, but pretty easy to look over. Overall fascinating movie, might as well watch the second half in March next year, just for the sake of it.
+
+### Demon Slayer 2025
+- **Rating**: ★★★★☆ 9
+- **Genre**: Anime
+- **Date** : 21 September 2025
+- **Brief Review**: 
+Saw this in the theatres with friends that were super into anime, to be honest I get the craze. The crowd was excellent to be around, did hype up every possible entrance no matter how small the story seemed to be. Amazing visualizations, although I kinda missed out on the story a bit, as it felt like too many story lines all happening at once, similar to Witcher. Turns out it encapsulates event of a single night, and this will be potrayed in a series of 3 movies. Pretty interesting concept, would recommend as a gateway drug.
+
 ### Karthik Calling Karthik 2010
 - **Rating**: ★★★★☆ 8
 - **Genre**: Thriller
