@@ -2,7 +2,7 @@
 last_modified: 2025-06-22 17:55:29 +0000
 layout: guides
 title: all-notes
-description: all technical notes written by Aryan Pandey from IIIT Jabalpur
+description: all technical notes written by me
 ---
 
 # All Technical Notes I Could think of
@@ -30,7 +30,7 @@ All <a href="../guides/ml/index" target="_blank">ML related notes are under this
 
 - <a href="../guides/adv_ml_explore" target="_blank">Advanced Topics in Machine Learning</a> that would feel overwhelming to a sophomore, compiled when I was a sophomore.
 
-- <a href="../guides/finance" target="_blank">Finance ?</a> really cool topics I really wanted to read about, in the month of July 2025, when I was contemplating (well read as interviewing) my full time offers. Might read these, but not a strong focus for now.
+- <a href="../guides/fin" target="_blank">Finance ?</a> really cool topics I really wanted to read about, in the month of July 2025, when I was contemplating (well read as interviewing) my full time offers. Might read these, but not a strong focus for now.
 
 <h3> Other texts I enjoyed </h3>
 - <a href="../guides/byothers" target="_blank">Guides and notes, written by Others</a>

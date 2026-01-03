@@ -3,7 +3,7 @@ last_modified: 2025-07-21 17:55:29 +0000
 layout: guides
 published : true
 title: small math refreshers
-description: math refreshers, to quickly go through really simple math topics written by Aryan Pandey from IIIT Jabalpur
+description: math refreshers, to quickly go through really simple math topics
 permalink: /guides/math/  
 usemathjax: true
 --- 

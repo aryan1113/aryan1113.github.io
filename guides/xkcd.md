@@ -2,7 +2,7 @@
 last_modified: 2025-06-21 17:55:29 +0000
 layout: guides
 title: xkcd Art
-description: xkcd art that I Aryan Pandey from IIIT Jabalpur, really like
+description: xkcd art that I really like
 ---
 
 I discovered xkcd art around 2020, and initially it felt kinda mundane and very template-ish, which after some ponit in time just kinda stuck with me.

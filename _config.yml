@@ -1,6 +1,6 @@
 # _config.yml
 title: space
-description: A personal site by Aryan Pandey from IIIT Jabalpur showcasing readings, projects, work experience, and travel notes.
+description: A personal site showcasing readings, projects, work experience, and travel notes.
 url: "https://aryan1113.github.io"
 
 theme: jekyll-theme-minimal

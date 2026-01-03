@@ -4,7 +4,7 @@ layout: default
 published : true
 title: To Be Read
 permalink: /lists/readmisc/  
-description: well If I even find myself to be extremely free, this is what I, Aryan Pandey from IIIT Jabalpur should be reading
+description: well If I even find myself to be extremely free, this is what I should be reading
 ---
 
 ## Wasn't really why, but I had this written down as well

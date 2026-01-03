@@ -5,7 +5,7 @@ published : true
 title: ratings for everything I've seen
 permalink: /media/rating/  
 hidden : true
-description: All movies I've watched from 2021-present by Aryan Pandey from IIIT Jabalpur
+description: All movies I've watched from 2021-present
 --- 
 
 <br>

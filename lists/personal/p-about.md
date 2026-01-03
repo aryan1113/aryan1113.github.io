@@ -4,7 +4,7 @@ layout: default
 title: More about Aryan
 published : true
 permalink: /personal/
-description: more masala about Aryan Pandey from IIIT Jabalpur
+description: more masala about me
 ---
 
 ## Personally 

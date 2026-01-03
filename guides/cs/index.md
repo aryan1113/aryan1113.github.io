@@ -2,7 +2,7 @@
 last_modified: 2025-12-23T00:14:31+05:30
 layout: guides
 title: all-cs-notes
-description: all CS focused technical notes written by Aryan Pandey from IIIT Jabalpur
+description: all CS focused technical notes
 ---
 
 # Really cool CS topics I Could think of

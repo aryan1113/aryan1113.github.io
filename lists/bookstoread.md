@@ -4,7 +4,7 @@ layout: default
 published : true
 title: To Be Read
 permalink: /lists/bookstoread/  
-description: Reading catalogue for Aryan Pandey from IIIT Jabalpur
+description: Reading catalogue for Aryan
 ---
 
 <h3> Head over to </h3>

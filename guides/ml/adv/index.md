@@ -2,7 +2,7 @@
 last_modified: 2025-09-25 17:55:29 +0000
 layout: ml-guides
 title: Faily advanced ML
-description: Advanced topics from Machine Learning by Aryan Pandey from IIIT Jabalpur
+description: Advanced topics from Machine Learning
 ---
 
 ## A bit advanced topics from DS/ML/DL

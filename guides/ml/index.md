@@ -2,7 +2,7 @@
 last_modified: 2025-10-04T19:40:10+05:30
 layout: ml-guides
 title: ml-notes
-description: everything Machine Learning, compilted by Aryan Pandey from IIIT Jabalpur
+description: everything Machine Learning
 ---
 
 ## Everything under the sun that is vaguely related to Machine Learning
