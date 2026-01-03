@@ -2,6 +2,7 @@
 last_modified: 2025-09-25 17:55:29 +0000
 layout: guides
 title: Finance
+permalink: /guides/fin/
 description: If I happen to be pursuing a masters degree someday 
 usemathjax: true
 --- 
