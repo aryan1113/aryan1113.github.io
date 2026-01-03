@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-07-11 17:55:29 +0000
+last_modified: 2026-01-03T22:43:13+05:30
 layout: default
 title: Every List curated
 description: all lists ever created and maintained by me should be right here

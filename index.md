@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-07-01 17:55:29 +0000
+last_modified: 2026-01-03T22:43:13+05:30
 layout: default
 title: Home
 description: should tell you a lot about Aryan
