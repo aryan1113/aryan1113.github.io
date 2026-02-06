@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-08-20 17:55:29 +0000
+last_modified: 2026-02-06T12:21:25+05:30
 layout: default
 published: true
 title: Work Experience
