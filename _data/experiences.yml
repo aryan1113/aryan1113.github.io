@@ -11,9 +11,10 @@ work:
       process: Cool discussions with the team, followed by an assignment. <br>
           I also did meet with my manager's manager (skip manager) in BLR over coffee, insightful
       learnings:
-        - "Well I'll update this section every 6months or so"
+        - "This [blog summarizes (not by me though)](https://prepvector.substack.com/p/from-metrics-to-decisions-the-role){:target='_blank'} what I actually do"
+        - "Lots of low hanging fruits in search/reco, just have to be curious enough to spot these"
       projects:
-        - "Same as learnings, will update this section every 6months"
+        - "Well I'll update this in a while"
 
     - title: "Data Science Intern"
       type: "Internship"
@@ -48,6 +49,26 @@ work:
         - "ERP portal for a construction focused GCC"
 
 talks:
+
+  - event: "AB Testing Workshop"
+    date_from: "2026-01-31"
+    date_to: "2026-02-01"
+    type: "Online Workshop"
+    takeaways: 
+      - "I finally found a niche enough term that perfectly describes what I do, I'm what they call a Product Data Scientist"
+      - "Focus on the richer metrics, that closely match user experience, like search to book ratio for Uber"
+      - "Experiments are a tool for product growth (small incremental)"
+      - "Quick refresher into p-values and confidence intervals"
+      - "Online workshops can be interactive too, just a lot of examples are needed"
+      - "[Notes for the workshop](../guides/ml/in-prod/experimentation){:target='_blank'}"
+
+  - event: "RL Conference, IISc"
+    date_from: "2026-01-15"
+    date_to: "2026-01-18"
+    type: "Conference"
+    takeaways: 
+      - "Well IISc can be very theoretical, I expected a smoother onramp, instead it felt like a Graduate level course :)"
+      - "As with the inMobi conference, this was overwhelming as well, I'll drag a friend along next time"
 
   - event: "InMobi Encore 2025"
     date_from: "2025-09-12"
