@@ -8,19 +8,23 @@ work:
       start_date: "2025-08-06"
       end_date: null
       current: True
+      stack: ["Python", "Elasticsearch", "Airflow", "LLMs", "GCS"]
+      context: "Core Search & Reco team (6 DS) optimizing discovery for millions of users across SEA."
       process: Cool discussions with the team, followed by an assignment. <br>
           I also did meet with my manager's manager (skip manager) in BLR over coffee, insightful
       learnings:
         - "This [blog summarizes (not by me though)](https://prepvector.substack.com/p/from-metrics-to-decisions-the-role){:target='_blank'} what I actually do"
         - "Lots of low hanging fruits in search/reco, just have to be curious enough to spot these"
       projects:
-        - "Well I'll update this in a while"
+        - "**Certified Luxury Watches:** Extended the 'Certified' program to luxury watches. Engineered LLM prompts to flag 'Want-to-Buy' listings and modified Elasticsearch queries to align with strict verification standards. <br>[Link to Press Release](https://press.carousell.com/2026/01/30/with-recent-survey-insights-of-over-40-of-users-worrying-about-scams-when-buying-secondhand-goods-carousell-hong-kong-launches-new-certified-luxury-watches-service/)"
+        - "**Personalized User Intents:** Built an Airflow pipeline converting user history to interest keywords via LLM, mapping them to recommendation feeds. <br>Deployed using Batch API to cut inference costs by 75%."
 
     - title: "Data Science Intern"
       type: "Internship"
       start_date: "2025-01-06"
       end_date: "2025-07-07"
       current: False
+      stack: ["Python", "Two-Tower Models", "SQL", "Bloom Filter"]
       process: Applied via Glassdoor, had 2 technical rounds focusing on ML/DL basics, <br>
           matrix based problem solving, and culture-fit
       learnings:
@@ -28,9 +32,9 @@ work:
         - "Long Tail distributions are more common that it seems haha"
         - "Problem solutioning is an iterative process, balance between depth and delivery speed"
       projects:
-        - "Extend an TwoTower architechture for select markets, improving QUSVC latency by 90%"
-        - "(For internal use), flag username searches"
-        - "(For internal use), work on marketplace-health dashboards"
+        - "Replaced Naive Bayes with a Two-Tower architecture for query-category mapping, reducing latency by 90% and increasing offline precision by 5-6pp."
+        - "Implemented a Bloom filter to flag username searches with 99.88% coverage and minimal marketplace disruption (<1% UUID impact)."
+        - "Optimized GCS upload sizes from 600MB to 60MB for internal dashboards."
     
   - company: "Adizen"
     location: "Bangalore"
@@ -40,15 +44,24 @@ work:
       start_date: "2024-05-06"
       end_date: "2024-07-15"
       current: False
+      stack: ["Product Specs", "Wireframing", "Stakeholder Management"]
       process: "Strong referral, 2 technical interviews based on guesstimates and past projects"
       learnings:
         - "Clients vision for the end result is paramount"
         - "Work can be very iterative"
         - "Tres LeChes is an amazing dessert"
       projects:
-        - "ERP portal for a construction focused GCC"
+        - "Designed the ERP portal for a construction focused GCC, managing requirements between engineering and stakeholders."
 
 talks:
+  - event: "OpenSearchCon 2026"
+    date_from: "2026-03-17" # Placeholder dates
+    date_to: "2026-03-18"
+    type: "Speaker"
+    location: "Shanghai"
+    takeaways:
+      - "Co-speaker for sessions on 'Real-Time Structured Query Understanding'."
+      - "I should be updating this in April2026"
 
   - event: "AB Testing Workshop"
     date_from: "2026-01-31"
@@ -81,9 +94,3 @@ talks:
         which was too big to fit in my luggage, gifted to friends as a housewarming gift. <br>
         pretty warm journey taking this in a BMTC sarige bus to Indiranagar
       - "Going to a conference alone can be super overwhelming, especially when 50% of the crowd are employees"
-
-  # - event: "Local ML Meetup"
-  #   date: "2024-04-20"
-  #   type: "Meetup"
-  #   takeaways:
-  #     - "Small community events are great for learning"

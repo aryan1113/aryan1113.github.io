@@ -18,13 +18,13 @@ permalink: /workex/
 
 **What I Learned:**
 {% for learning in role.learnings %}
-- {{ learning }}
+- {{ learning | markdownify | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
 
 {% if role.projects.size > 0 %}
 **Projects:**
 {% for project in role.projects %}
-- {{ project }}
+- {{ project | markdownify | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
 {% endif %}
 
