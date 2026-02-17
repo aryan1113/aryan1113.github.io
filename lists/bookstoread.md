@@ -12,6 +12,7 @@ description: Reading catalogue for Aryan
 - [Others](#political)
 - [Business focused](#business)
 - [Richie Rich in the Indian context](#ambani)
+- [Urban Planning](#urban)
 
 <div id="general"></div>
 <hr style="border:1px solid gray">
@@ -70,6 +71,12 @@ Business :
 2. One Click (Amazon)
 3. No Place to Hide (Snowden)
 
+LAT Aerospace, STOL Bangalore:
+1. Flight Without Formulae
+2. "Understanding Flight" by David Anderson & Scott Eberhardt
+3. Stick and Rudder
+
+
 <div id="ambani"></div>
 <hr style="border:1px solid gray">
 ⚡️━━━━━━━━━━━━━━━━━━━━━━⚡️ <br>
@@ -84,3 +91,15 @@ Ambani
 2. Persevere and Prevail Like Mukesh Ambani By Rajiv Agarwal
 3. Ambani & Sons by Hamish McDonald
 4. Ambani Vs Ambani: Storms in the Sea Wind By Alam Srinivas
+
+<div id="urban"></div>
+<hr style="border:1px solid gray">
+﹏﹏𓊝﹏﹏𓊝﹏﹏𓊝﹏﹏𓊝﹏﹏ <br>
+pirate ships as a line break
+
+<h2>
+Urban planning
+</h2>
+I'll probably read about these when I'm 30.
+1. Streetfight: Handbook for an Urban Revolution
+2. The Economy of Cities By Jane Jacobs
