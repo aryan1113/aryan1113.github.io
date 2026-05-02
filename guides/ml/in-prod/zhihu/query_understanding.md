@@ -99,6 +99,20 @@ Not really sure, will need to read more of it.
 * **Linear CRF (Conditional Random Fields):** Classic approach for sequence labeling. <br>
 * **Bi-LSTM-CRF / BERT:** To capture bidirectional context.
 
+## Structured Search
+Adds structure to your search, takes raw user queries and identifies key components. Well yes this is similar to NER, in this section we'll only cover about this feature in the context of marketplace search.
+
+> Note: this is not about carousell, this section is inspired by the [Meituan Search doc](https://zhuanlan.zhihu.com/p/411329247) which is mentioned in the acknowledgements section as well.
+
+There are offline and online components to this functionality. We compute and store values observed historically (either through prev searches or through information provided by sellers on our platform, for Meituan this could be anything from restuarants, hotels to grocery stores).
+A big issue highlighted in the article talks about incorrect retreival, which can pollute our results and surface irrelevant listings, ruining user experience. A query for 'KFC' might also return a barbershop, with it's landmark being 'near KFC' which is a genuine problem.
+
+For folks in Bangalore, you might be aware of 'Indiranagar KFC' which serves as the landmark for quite a lot of stores. (across/opposite to KFC, beside KFC, near KFC).
+
+### Overall architechture
+
+![Translated snapshot](../../../../assets/ss_at_meituan.png)
+
 ## Intent Recognition
 
 To determine the user's goal. Deals with ambiguity where one term maps to multiple domains <br> (e.g., "Apple" $\rightarrow$ Fruit vs. Electronics).
@@ -186,3 +200,4 @@ As the request volume is massive, suggestions are usually pre-computed, using a 
 ## Acknowledgements
 - Based on concepts from [Zhihu Blog - Query Understanding](https://zhuanlan.zhihu.com/p/112719984)
 - Nothing else honestly, blogs on Zhihu are quite comprehensive, if you can somehow choose to ignore their 10 thousand sign up requests.
+- [Structured Search at Meituan](https://zhuanlan.zhihu.com/p/411329247), which is an O2O (online to offline) marketplace.
