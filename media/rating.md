@@ -17,7 +17,54 @@ description: All movies I've watched from 2021-present
 Please please please don't wham me if you think ratings (in stars) do not match with your perception, <br> 
 All of these were recorded right after I saw the film, with older ones being assigned a score of 0, back when I did not rate movies I saw.
 
+<div style="margin-bottom: 30px;">
+  <input type="text" id="movieSearch" class="movie-search-input" style="margin-bottom: 8px;" placeholder="Search for a movie">
+  <div style="color: #777; font-size: 0.90rem; line-height: 1.4; padding: 0 5px;">
+    <em><strong>Filter by genre:</strong></em> Action, Comedy, nonsensical, Sci-Fi, Horror, Drama, Romance, Documentary, Anime, War, Coming of Age, Thriller<br>
+    <em><strong>Note:</strong></em> pls limit to single word queries, this is a naive search, search for one attribute at once
+  </div>
+</div>
+
 <h3> Head over to </h3>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const searchInput = document.getElementById('movieSearch');
+    
+    // Group movies into visually appealing cards dynamically
+    let h3s = Array.from(document.querySelectorAll('h3'));
+    const allMovieNodes = [];
+    
+    h3s.forEach(h3 => {
+      // Exclude navigation / heatmap h3s by checking if next sib is a UL
+      if (h3.nextElementSibling && h3.nextElementSibling.tagName === 'UL') {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'movie-card';
+        h3.parentNode.insertBefore(wrapper, h3);
+        
+        let ul = h3.nextElementSibling;
+        wrapper.appendChild(h3);
+        wrapper.appendChild(ul);
+        allMovieNodes.push(wrapper);
+      }
+    });
+
+    // Real-time Search
+    searchInput.addEventListener('input', function(e) {
+        const query = e.target.value.toLowerCase();
+        allMovieNodes.forEach(card => {
+            const textContent = card.innerText.toLowerCase();
+            if(textContent.includes(query)) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
+});
+</script>
+
+- [Watch List for 2026](#WatchList2026)
 - [Watch List for 2025](#WatchList2025)
 - [Watch List for 2024](#WatchList2024)
 - [Series from 2024](#Series2024)
@@ -28,6 +75,37 @@ All of these were recorded right after I saw the film, with older ones being ass
 - [Watch List for older Hollywood movies](#WatchListOldHollywood)
 
 <hr style="border:2px solid gray">
+
+<div id="WatchList2026"></div>
+
+## Watch List 2026
+
+### Lets Be Cops 2014
+- **Rating**: ★★★★☆ 9
+- **Genre**: Comedy
+- **Date** : 6 April 2026
+- **Brief Review**: 
+Goated, has everything you would expect of a comedy movie. Has the token courageous cop, the corrupt cop, the love interest, the weird protagonist.
+Plus, one of the protagonists is from 'White chicks', very predictable arc of two best friends having a fight and then bond over the troubling times.
+Bit cliche, but sure can ignore those. Great ending, has a lot of callbacks
+        
+### Arrival 2016
+- **Rating**: ★★★☆☆ 7
+- **Genre**: Sci-Fi
+- **Date** : 5 April 2026
+- **Brief Review**: 
+Loved the storytelling throughout, amazing way to piece up the story through what seemed like flashbacks.
+Towards the end it's beautiful to see the story piece itself together. Bit of a paradox, but still interesting.
+Had a couple of token characters which lacked depth, but well I wasn't expecting much from this either.
+
+### Project Hail Mary
+- **Rating**: ★★★★☆ 9
+- **Genre**: Sci-Fi
+- **Date** : 3 April 2026
+- **Brief Review**: 
+Great storytelling, loved how they potrayed rocky. Amped up my understanding of why humans seek companionship.
+Visuals were quite appealing, although I feel I might have lost all appreciation for art. 
+Few loopholes, but definately can let go of it, the story is quite captivating. Even with very limited words and expressions, rocky does a beautiful job.
 
 <div id="WatchList2025"></div>
 

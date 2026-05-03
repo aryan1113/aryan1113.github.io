@@ -14,6 +14,10 @@ description: movies I have watched or plan to watch
 
 # Movies, of all kinds
 
+## 2026 watchlist
+1. Idiocracy 2006
+2. The Big Short 2015, cause credit swaps seem interesting
+
 ## 2025 watchlist
 
 <div class="continuous-list" markdown="1">

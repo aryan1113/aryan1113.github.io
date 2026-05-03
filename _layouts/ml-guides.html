@@ -68,8 +68,20 @@
 </head>
 
 <body>
-  {% include header_ml_guides.html %}
-
+  <script>
+    function toggleTheme() {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      let newTheme = 'light';
+      if (currentTheme === 'light' || (!currentTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          newTheme = 'dark';
+      }
+      if (currentTheme === 'dark') {
+          newTheme = 'light';
+      }
+      document.documentElement.setAttribute('data-theme', newTheme);
+    }
+  </script>
+  <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle dark mode">🌓</button>
   <main class="content-wrapper">
     {{ content }}
   </main>

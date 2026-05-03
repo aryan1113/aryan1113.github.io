@@ -13,4 +13,5 @@ To be populated sometime later, I do not have a lot of things tbh haha
 <h1>
 Meal Prep
 </h1>
-Sprouts, make it a regular habit
+- Sprouts, make it a regular habit
+- Do not mix two kinds of milk. Tried this on 03/01/26 mixing A2 milk (amul) with regular commercial milk (amul) and experienced what doctors would call food poisoning.
