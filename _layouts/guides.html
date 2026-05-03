@@ -69,19 +69,27 @@
 
 <body>
   <script>
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+
     function toggleTheme() {
       const currentTheme = document.documentElement.getAttribute('data-theme');
-      let newTheme = 'light';
-      if (currentTheme === 'light' || (!currentTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-          newTheme = 'dark';
-      }
-      if (currentTheme === 'dark') {
+      let newTheme = 'dark';
+      if (currentTheme === 'dark' || (!currentTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
           newTheme = 'light';
       }
       document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
     }
   </script>
   <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle dark mode">🌓</button>
+
+  {% include header_guides.html %}
+
   <main class="content-wrapper">
     {{ content }}
   </main>
