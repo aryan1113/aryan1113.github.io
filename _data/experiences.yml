@@ -16,7 +16,7 @@ work:
         - "This [blog summarizes (not by me though)](https://prepvector.substack.com/p/from-metrics-to-decisions-the-role){:target='_blank'} what I actually do"
         - "Lots of low hanging fruits in search/reco, just have to be curious enough to spot these"
       projects:
-        - "**Certified Luxury Watches:** Extended the 'Certified' program to luxury watches. Engineered LLM prompts to flag 'Want-to-Buy' listings and modified Elasticsearch queries to align with strict verification standards. <br>[Link to Press Release](https://press.carousell.com/2026/01/30/with-recent-survey-insights-of-over-40-of-users-worrying-about-scams-when-buying-secondhand-goods-carousell-hong-kong-launches-new-certified-luxury-watches-service/)"
+        - "**Certified Luxury Watches:** Extended the 'Certified' program to luxury watches. Engineered LLM prompts to flag 'Want-to-Buy' listings and modified Elasticsearch queries to align with strict verification standards. <br>[Link to Press Release](https://press.carousell.com/2026/01/30/with-recent-survey-insights-of-over-40-of-users-worrying-about-scams-when-buying-secondhand-goods-carousell-hong-kong-launches-new-certified-luxury-watches-service/){:target='_blank'}"
         - "**Personalized User Intents:** Built an Airflow pipeline converting user history to interest keywords via LLM, mapping them to recommendation feeds. <br>Deployed using Batch API to cut inference costs by 75%."
 
     - title: "Data Science Intern"

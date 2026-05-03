@@ -46,5 +46,5 @@ permalink: /workex/
 {% for takeaway in talk.takeaways %}
 - {{ takeaway }}
 {% endfor %}
-
+---
 {% endfor %}
