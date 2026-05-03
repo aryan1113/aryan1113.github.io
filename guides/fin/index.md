@@ -7,172 +7,44 @@ description: If I happen to be pursuing a masters degree someday
 usemathjax: true
 --- 
 
-Check out finance courses on NPTEL or course pages from colleges that offer undergrad degree in finance / econ.
-Not a focus area for now, atleast till the end of 2025.
+## Everything under the sun about finance that could interest me
 
 * Table of Contents
 {:toc}
 
-## Generic Topics
+<hr style="border:1px solid gray">
 
-### Slightly Technical Topics
-1. Capital markets  
-2. Computational finance  
-3. Monte Carlo simulations  
-4. Numerical methods  
-5. Time series / econometrics  
-6. Statistics for finance  
 
-### Finance-Focused Topics
-1. Financial theory  
-2. Asset / derivative pricing  
-3. Capital Asset Pricing Model (CAPM)  
-4. Puts / Calls  
-5. Options  
-6. Risk management  
-7. Financial models  
+### Why even read about Finance
 
-### What Do These Even Mean?
-1. Econometrics  
-2. Regressions  
-3. Time series  
-4. Panel data analysis  
-5. Volatility modelling  
-6. Co-integration  
+Well I did have some free time on my hands between Diwali - Christmas of 2025 and was contemplating on various career options I could pursue in the next 5 years or so. 
 
----
+Primary intuition behind this was most job postings require an advanced "Quantitative" degree, clubbed with 2+ yrs of work ex, something which I'll be able to achieve till Aug'27, which roughly aligns with the start of the academic year, if I start applying in 2026, giving me good enough headroom to work with.
 
-## IITB Dept of Economics
+So to guage my interest in this field, I wanted to explore first <br>
+(and then exploit haha, someone's been reading about MAB recently).
 
-### UG Curriculum
-From the [course page](https://www.economics.iitb.ac.in/bs_econ_course_structure.html){:target="_blank"}, exciting subjects include:
+In the short term, can explore 
+a. very small NPTEL courses, which have been very hard for me to follow, as I have little to no incentive to show up dilligently.
+b. Read books, compiled from quantnet and other similar resources.
+c. NISM certification courses, haven't heard about this from people on linkedin, low trust.
+d. CFA part 1 covers basics of finance, and has some overlap with FRM curriculum, which is majorly for risk management.
 
-1. EC 221 Intermediate **Micro** economics I  
-2. EC 223 Intermediate **Macro** economics I  
-3. EC 210 Intermediate **Micro** economics II  
-4. EC 212 Intermediate **Macro** economics II  
-5. EC 402 Game Theory  
-   > Already in my [CS topics list](../guides/cs/adv_cs_to_learn.md#game-theory){:target="_blank"}, which I should be covering first, as CS principles will be more useful to me in the near future.
-6. EC 306 Econometrics I  
-7. EC 405 Econometrics II  
 
-Some really cool honours courses:  
-- EC 310 Corporate Investment  
-- EC 315 Public Finance  
-- EC 440 Industrial Economics  
-- EC 452 Economic Reforms in India  
-- EC 610 Cost Benefit Analysis  
-- EC 611 Financial Economics  
-- EC 700 Applied Economics  
-- EC 707 Empirical Analysis of Corporate Governance  
+### Books
+- <a href="./generic-finance/books" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Books compiled from various resources</a>, on all things related to finance. Mentions what the book is about, and a short why to read this book. As time is precious, and reading books requires a lot of effort (given that I'll purchase a hard copy), this helps to set up a priority list.
 
----
+### Quant Finance / Financial Engineering
+- <a href="./quant-finance/starters" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Everything quant</a>. Well Quant on it's own is a very strong niche to be pulled into.
 
-### PG Curriculum
-From the [course page](https://www.economics.iitb.ac.in/graduate_courses.html){:target="_blank"}, with much more depth than the bachelor level courses.
-
-#### EC 802 – Advanced Economic Theory
-- **Consumer theory**  
-- **Producer theory**  
-- **Choice under uncertainty**  
-- **General equilibrium models**  
-  - Walrasian and Marshallian stability analysis: existence, uniqueness, stability  
-- **Game theory topics**  
-  - Bayesian games  
-  - Signaling  
-  - Mechanism design  
-  - Decision theory  
-  - Cooperative game theory  
-- **Applications in corporate investment**  
-  - Distributed lag models, adaptive expectations, investment accelerators  
-- **Applications of difference equations**  
-  - Competitive market models with perishable products  
-  - Market models with inventory  
-- **Growth models**  
-  - Neoclassical growth model without money (wealth demand model)  
-  - Solow growth model  
-  - Solow with automation  
-  - Endogenization of investment in physical capital  
-  - Automation and wage inequality  
-  - Ramsey-Cass-Koopmans model (with automation)  
-  - Overlapping Generations (OLG) model (with automation)  
-- **Open economy macroeconomics**
-
----
-
-#### EC 821 Applied Econometrics
-- **Linear regression**  
-  - Multiple regression, violations of classical assumptions  
-  - GLS, Seemingly Unrelated Regressions  
-  - Simultaneous equations models  
-- **Limited dependent & qualitative variables**  
-  - Linear probability model  
-  - Probit, logit, multinomial logit  
-  - Conditional logit, nested logit, nested multinomial logit  
-  - Ordered logit / probit  
-  - Poisson regression, negative binomial, Tobit, hurdle model  
-- **Time series**  
-  - Stationarity, ARIMA, VAR  
-  - Cointegration, ARCH, GARCH  
-- **Panel data**  
-  - Fixed effects (LSDV), random effects  
-  - Fixed vs random effects, dynamic panel models  
-  - Errors in variables, unit root tests  
-- **Matching methods**  
-  - Counterfactuals, propensity score matching  
-  - Average treatment effect, quantile treatment effect  
-  - Regression + matching  
-  - Ordered & continuous treatment  
-- **Instrumental variables regression**  
-  - IV and causality, 2SLS  
-  - IV with heterogeneous outcomes  
-- **Difference-in-differences (DiD)**  
-  - Individual fixed effects  
-  - Regression-based DiD  
-
----
-
-#### EC 631 Financial Economics
-- **Financial markets and the economy**  
-  - Real vs financial assets  
-  - Users of the financial system  
-  - Role of financial intermediation  
-- **Choices under risk**  
-  - Utility theory under uncertainty  
-  - Axioms of choice, risk aversion  
-- **Financial instruments**  
-  - Types, characteristics, financial innovation  
-- **Bond pricing & term structure theories**  
-  - Expectations Hypothesis  
-  - Liquidity Preference  
-  - Market Segmentation Theory  
-  - Preferred Habitat Theory  
-- **Derivatives basics**  
-  - Futures and options definitions  
-  - Rights & obligations of parties  
-  - Taxonomy of options  
-- **Portfolio theory**  
-  - Return–risk tradeoff  
-  - Efficient diversification  
-  - Capital Asset Pricing Model (CAPM)  
-  - Risk premium determinants, empirical CAPM tests  
-- **Financial intermediation**  
-  - Role of banks  
-  - Types of intermediaries  
-
----
-
-#### EC 638 Financial Econometrics
-- **Properties of financial returns**  
-- **Univariate time series models**  
-  - Applications in finance  
-- **Multivariate time series models**  
-  - Applications in finance  
-- **Cointegration & error correction models**  
-- **Volatility modelling**  
-  - ARCH, GARCH  
-  - Historical, realized, implied volatility  
-- **Markov & regime switching models**  
-  - Applications in finance  
-- **Multivariate volatility & correlation models**  
-  - Applications in finance
+### Math
+- <a href="../math/index" 
+    target="_blank" 
+    rel="noopener noreferrer">
+    Supporting Math / Stats</a> - A compilation of quantitative foundations, econometrics, and specialized statistics modeling textbooks.
