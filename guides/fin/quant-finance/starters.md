@@ -1,5 +1,5 @@
 ---
-last_modified: $(date -u +"%Y-%m-%d %H:%M:%S %z")
+last_modified: 2026-05-03T14:43:35+05:30
 layout: guides
 title: Quant Finance Roadmap
 description: Phased learning roadmap for quantitative finance

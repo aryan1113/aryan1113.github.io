@@ -1,5 +1,5 @@
 ---
-last_modified: 2025-09-25 17:55:29 +0000
+last_modified: 2026-05-03T14:43:35+05:30
 layout: default
 title: Stats and Math Books
 description: Books related to statistics and time series

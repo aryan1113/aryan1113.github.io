@@ -1,5 +1,5 @@
 ---
-last_modified: $(date -u +"%Y-%m-%d %H:%M:%S %z")
+last_modified: 2026-05-03T14:43:35+05:30
 layout: guides
 title: Finance Job Postings
 description: Real world job descriptions and expectations for finance and quant roles

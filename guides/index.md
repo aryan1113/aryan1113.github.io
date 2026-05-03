@@ -1,5 +1,5 @@
 ---
-last_modified: 2026-01-03T22:43:13+05:30
+last_modified: 2026-05-03T14:43:35+05:30
 layout: guides
 title: all-notes
 description: all technical notes written by me
